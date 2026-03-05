@@ -1,0 +1,6784 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "a88c2210-4f9d-4efa-a9d4-bc2d7ed43201",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.953643017,
+          51.28013949
+        ]
+      },
+      "properties": {
+        "id": "a88c2210-4f9d-4efa-a9d4-bc2d7ed43201",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c6cfaa80-eeae-48c9-bdb2-72bd2979e075",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.947899894,
+          51.279690334
+        ]
+      },
+      "properties": {
+        "id": "c6cfaa80-eeae-48c9-bdb2-72bd2979e075",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f9489b71-412c-4520-adbf-bc535288f5f6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.96082192,
+          51.28013949
+        ]
+      },
+      "properties": {
+        "id": "f9489b71-412c-4520-adbf-bc535288f5f6",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9f03431f-62d2-451b-a58a-89721ba503ea",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.964411371,
+          51.28238527
+        ]
+      },
+      "properties": {
+        "id": "9f03431f-62d2-451b-a58a-89721ba503ea",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07a5c510-0cab-4d66-8e5f-618c661d371d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.957950359,
+          51.278342866
+        ]
+      },
+      "properties": {
+        "id": "07a5c510-0cab-4d66-8e5f-618c661d371d",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35247a68-b7a9-48f1-823a-40723d880b28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.953643017,
+          51.27564793
+        ]
+      },
+      "properties": {
+        "id": "35247a68-b7a9-48f1-823a-40723d880b28",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4d7f653d-bbaa-4037-86fd-56372effdad0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.950053565,
+          51.27340215
+        ]
+      },
+      "properties": {
+        "id": "4d7f653d-bbaa-4037-86fd-56372effdad0",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "db738a64-d02e-42cb-bf13-baad3cabb324",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.942156772,
+          51.27564793
+        ]
+      },
+      "properties": {
+        "id": "db738a64-d02e-42cb-bf13-baad3cabb324",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ad46b7fb-5571-41a3-8a19-578ed15def42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.953643017,
+          51.277444554
+        ]
+      },
+      "properties": {
+        "id": "ad46b7fb-5571-41a3-8a19-578ed15def42",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fd0879c3-80c0-4019-b3eb-ad444f48dbe8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.942874662,
+          51.27340215
+        ]
+      },
+      "properties": {
+        "id": "fd0879c3-80c0-4019-b3eb-ad444f48dbe8",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "55676ab0-3357-4541-9872-cc36ce39abbc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.968000823,
+          51.28238527
+        ]
+      },
+      "properties": {
+        "id": "55676ab0-3357-4541-9872-cc36ce39abbc",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "253b03cd-96e4-4396-9762-51c77065931b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.964411371,
+          51.28013949
+        ]
+      },
+      "properties": {
+        "id": "253b03cd-96e4-4396-9762-51c77065931b",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4185ffc2-9509-4839-a2d4-673cfbbb9ad8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.96153981,
+          51.278342866
+        ]
+      },
+      "properties": {
+        "id": "4185ffc2-9509-4839-a2d4-673cfbbb9ad8",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5e656b43-7991-4efc-8adf-386bc492d09e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.957232468,
+          51.27564793
+        ]
+      },
+      "properties": {
+        "id": "5e656b43-7991-4efc-8adf-386bc492d09e",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6e0ccba8-2f87-4ece-86d0-1fbe5569d3c5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.953643017,
+          51.27340215
+        ]
+      },
+      "properties": {
+        "id": "6e0ccba8-2f87-4ece-86d0-1fbe5569d3c5",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "de153981-c801-41a2-bbc8-eac7e3ab9cad",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.950053565,
+          51.27115637
+        ]
+      },
+      "properties": {
+        "id": "de153981-c801-41a2-bbc8-eac7e3ab9cad",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2cb8a283-e937-455b-98ef-daf4499031e0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.946464114,
+          51.27115637
+        ]
+      },
+      "properties": {
+        "id": "2cb8a283-e937-455b-98ef-daf4499031e0",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0f6acb37-202c-4cc2-ae49-7c4ce733dd27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.942874662,
+          51.26891059
+        ]
+      },
+      "properties": {
+        "id": "0f6acb37-202c-4cc2-ae49-7c4ce733dd27",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a510feae-26e7-46da-8455-26c7d75800da",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.967282933,
+          51.284181894
+        ]
+      },
+      "properties": {
+        "id": "a510feae-26e7-46da-8455-26c7d75800da",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c297c00a-213c-48b1-83e9-6fff8ff5180d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.939285211,
+          51.270258058
+        ]
+      },
+      "properties": {
+        "id": "c297c00a-213c-48b1-83e9-6fff8ff5180d",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13b04070-76c3-4bd8-ba7f-aa2b8541ca5e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.939285211,
+          51.273851306
+        ]
+      },
+      "properties": {
+        "id": "13b04070-76c3-4bd8-ba7f-aa2b8541ca5e",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6bf7b400-672a-4510-b8cb-975c96596b53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.946464114,
+          51.276995398
+        ]
+      },
+      "properties": {
+        "id": "6bf7b400-672a-4510-b8cb-975c96596b53",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1352bab0-2cd3-4963-afb4-0c9225d7ce53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.96010403,
+          51.281037802
+        ]
+      },
+      "properties": {
+        "id": "1352bab0-2cd3-4963-afb4-0c9225d7ce53",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cc06e8b4-785b-47be-860e-8fa97ac7e4cc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.96010403,
+          51.281037802
+        ]
+      },
+      "properties": {
+        "id": "cc06e8b4-785b-47be-860e-8fa97ac7e4cc",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cd87ec1c-7716-4563-9f32-9df6f8525e7e",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.953643017,
+            51.28013949
+          ],
+          [
+            -115.953643017,
+            51.277444554
+          ],
+          [
+            -115.953643017,
+            51.27564793
+          ]
+        ]
+      },
+      "properties": {
+        "id": "cd87ec1c-7716-4563-9f32-9df6f8525e7e",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4d658cc9-2c57-4588-8961-ac56e6eb77c9",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.953643017,
+            51.27564793
+          ],
+          [
+            -115.953643017,
+            51.27564793
+          ],
+          [
+            -115.939285211,
+            51.26666481
+          ],
+          [
+            -115.928516856,
+            51.26666481
+          ]
+        ]
+      },
+      "properties": {
+        "id": "4d658cc9-2c57-4588-8961-ac56e6eb77c9",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c2d04dba-aef5-4687-a942-1696e9659ce3",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.939285211,
+            51.27115637
+          ],
+          [
+            -115.932106307,
+            51.26666481
+          ]
+        ]
+      },
+      "properties": {
+        "id": "c2d04dba-aef5-4687-a942-1696e9659ce3",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "820a6daa-4edb-4fad-9f61-08a6af6c9df4",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.946464114,
+            51.27115637
+          ],
+          [
+            -115.939285211,
+            51.27115637
+          ]
+        ]
+      },
+      "properties": {
+        "id": "820a6daa-4edb-4fad-9f61-08a6af6c9df4",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "42b7fe85-066e-4d02-a296-972d745aa73c",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.946464114,
+            51.27115637
+          ],
+          [
+            -115.946464114,
+            51.27115637
+          ],
+          [
+            -115.950053565,
+            51.27115637
+          ]
+        ]
+      },
+      "properties": {
+        "id": "42b7fe85-066e-4d02-a296-972d745aa73c",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c3d37b3c-d7d1-433d-ade1-221a6b4d7cb0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.950053565,
+            51.27340215
+          ],
+          [
+            -115.950053565,
+            51.27340215
+          ],
+          [
+            -115.953643017,
+            51.27340215
+          ]
+        ]
+      },
+      "properties": {
+        "id": "c3d37b3c-d7d1-433d-ade1-221a6b4d7cb0",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "80c5b52d-caeb-45a4-a625-beb641f157a9",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.96082192,
+            51.28013949
+          ],
+          [
+            -115.964411371,
+            51.28013949
+          ]
+        ]
+      },
+      "properties": {
+        "id": "80c5b52d-caeb-45a4-a625-beb641f157a9",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7c489b59-304c-4569-81da-3cb91de91dc6",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.964411371,
+            51.28238527
+          ],
+          [
+            -115.968000823,
+            51.28238527
+          ]
+        ]
+      },
+      "properties": {
+        "id": "7c489b59-304c-4569-81da-3cb91de91dc6",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eb144652-7ced-4431-a85f-5d0dc9795336",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.957232468,
+            51.27564793
+          ],
+          [
+            -115.953643017,
+            51.27564793
+          ]
+        ]
+      },
+      "properties": {
+        "id": "eb144652-7ced-4431-a85f-5d0dc9795336",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13bd4be0-051d-4cdb-9995-ba13fc5a2e47",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.942874662,
+            51.26891059
+          ],
+          [
+            -115.935695759,
+            51.26891059
+          ]
+        ]
+      },
+      "properties": {
+        "id": "13bd4be0-051d-4cdb-9995-ba13fc5a2e47",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a6c3651f-8fc1-4c0a-a31b-963ac31eeca4",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.946464114,
+            51.27340215
+          ],
+          [
+            -115.946464114,
+            51.27115637
+          ]
+        ]
+      },
+      "properties": {
+        "id": "a6c3651f-8fc1-4c0a-a31b-963ac31eeca4",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5441f8db-3be3-4a4d-bfb5-59d6c02af725",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.942874662,
+            51.27340215
+          ],
+          [
+            -115.942874662,
+            51.27115637
+          ]
+        ]
+      },
+      "properties": {
+        "id": "5441f8db-3be3-4a4d-bfb5-59d6c02af725",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fd0364b3-8d3f-4594-a78b-8220e018aa3c",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.942874662,
+            51.27115637
+          ],
+          [
+            -115.942874662,
+            51.26891059
+          ]
+        ]
+      },
+      "properties": {
+        "id": "fd0364b3-8d3f-4594-a78b-8220e018aa3c",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c35f0a2c-cc7c-4204-871f-e0bf458f652e",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.945028333,
+            51.270258058
+          ],
+          [
+            -115.93784943,
+            51.270258058
+          ],
+          [
+            -115.934977869,
+            51.270258058
+          ]
+        ]
+      },
+      "properties": {
+        "id": "c35f0a2c-cc7c-4204-871f-e0bf458f652e",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": false,
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8919133c-ba7f-4a5f-8adc-56bed15bb702",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.953643017,
+            51.278342866
+          ],
+          [
+            -115.96153981,
+            51.278342866
+          ]
+        ]
+      },
+      "properties": {
+        "id": "8919133c-ba7f-4a5f-8adc-56bed15bb702",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e322fb22-4e18-4e0d-bce4-7ea1fe943ce1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.953643017,
+            51.28013949
+          ],
+          [
+            -115.96082192,
+            51.28013949
+          ]
+        ]
+      },
+      "properties": {
+        "id": "e322fb22-4e18-4e0d-bce4-7ea1fe943ce1",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3649b8f2-f8d8-46a8-af45-8a4ed7411866",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.968000823,
+            51.28238527
+          ],
+          [
+            -115.971590274,
+            51.28238527
+          ]
+        ]
+      },
+      "properties": {
+        "id": "3649b8f2-f8d8-46a8-af45-8a4ed7411866",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "85f5e2e8-608b-4bff-84c0-a9d16bcbdd8d",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.953643017,
+            51.27340215
+          ],
+          [
+            -115.955078797,
+            51.272952994
+          ],
+          [
+            -115.968000823,
+            51.281037802
+          ],
+          [
+            -115.968000823,
+            51.28238527
+          ]
+        ]
+      },
+      "properties": {
+        "id": "85f5e2e8-608b-4bff-84c0-a9d16bcbdd8d",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5a0a1559-4db3-49b5-8110-89faa3849f46",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.957232468,
+            51.27564793
+          ],
+          [
+            -115.957232468,
+            51.27564793
+          ],
+          [
+            -115.946464114,
+            51.26891059
+          ]
+        ]
+      },
+      "properties": {
+        "id": "5a0a1559-4db3-49b5-8110-89faa3849f46",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a68c84f-997c-4077-80bb-5a69077ca205",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.946464114,
+            51.26891059
+          ],
+          [
+            -115.942874662,
+            51.26891059
+          ]
+        ]
+      },
+      "properties": {
+        "id": "0a68c84f-997c-4077-80bb-5a69077ca205",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d92c8a8a-2f5c-4a62-807d-83bf20531276",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.964411371,
+            51.28013949
+          ],
+          [
+            -115.965847152,
+            51.279690334
+          ]
+        ]
+      },
+      "properties": {
+        "id": "d92c8a8a-2f5c-4a62-807d-83bf20531276",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef381653-fc69-44dd-86de-bdbbc52d4dfb",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.96153981,
+            51.278342866
+          ],
+          [
+            -115.962975591,
+            51.27789371
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ef381653-fc69-44dd-86de-bdbbc52d4dfb",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5b0e39bf-5330-4db5-a8c3-3f2abd961742",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.957232468,
+            51.27564793
+          ],
+          [
+            -115.958668249,
+            51.275198774
+          ]
+        ]
+      },
+      "properties": {
+        "id": "5b0e39bf-5330-4db5-a8c3-3f2abd961742",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6da69a4c-0bb7-4013-87b2-a8a2d0a13aed",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.968000823,
+            51.279241178
+          ],
+          [
+            -115.965847152,
+            51.279690334
+          ]
+        ]
+      },
+      "properties": {
+        "id": "6da69a4c-0bb7-4013-87b2-a8a2d0a13aed",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "347fcbc6-4b23-4bb9-9a69-3b01122bff14",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.953643017,
+            51.28013949
+          ],
+          [
+            -115.950771455,
+            51.28013949
+          ],
+          [
+            -115.947899894,
+            51.279690334
+          ],
+          [
+            -115.945746223,
+            51.278342866
+          ]
+        ]
+      },
+      "properties": {
+        "id": "347fcbc6-4b23-4bb9-9a69-3b01122bff14",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8d4ac5e8-cf9f-40ed-90ec-3d8c693dd9a7",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.953643017,
+            51.278342866
+          ],
+          [
+            -115.945746223,
+            51.278342866
+          ],
+          [
+            -115.942156772,
+            51.27564793
+          ],
+          [
+            -115.939285211,
+            51.273851306
+          ]
+        ]
+      },
+      "properties": {
+        "id": "8d4ac5e8-cf9f-40ed-90ec-3d8c693dd9a7",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "527eccf7-39fc-4275-884d-7bcdf50e6a0a",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.939285211,
+            51.273851306
+          ],
+          [
+            -115.939285211,
+            51.27340215
+          ]
+        ]
+      },
+      "properties": {
+        "id": "527eccf7-39fc-4275-884d-7bcdf50e6a0a",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bef0d6ea-b1e5-4220-8ea4-721a627cb825",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.944310443,
+            51.275198774
+          ],
+          [
+            -115.941438881,
+            51.275198774
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bef0d6ea-b1e5-4220-8ea4-721a627cb825",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "407296c8-7feb-4bef-92c5-4f87ca1e5fe8",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.940720991,
+            51.267563122
+          ],
+          [
+            -115.933542088,
+            51.267563122
+          ]
+        ]
+      },
+      "properties": {
+        "id": "407296c8-7feb-4bef-92c5-4f87ca1e5fe8",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c9f7b301-dd82-4d9d-8b50-de1f8058b0de",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.969436604,
+            51.28463105
+          ],
+          [
+            -115.969436604,
+            51.28238527
+          ]
+        ]
+      },
+      "properties": {
+        "id": "c9f7b301-dd82-4d9d-8b50-de1f8058b0de",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14bf8e78-d40b-4922-9b66-b28bd3f57291",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.970872384,
+            51.28463105
+          ],
+          [
+            -115.970872384,
+            51.28238527
+          ]
+        ]
+      },
+      "properties": {
+        "id": "14bf8e78-d40b-4922-9b66-b28bd3f57291",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f343c3a3-812a-45fa-83e3-9a1f8e6a29bb",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.971590274,
+            51.28463105
+          ],
+          [
+            -115.972308165,
+            51.28463105
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f343c3a3-812a-45fa-83e3-9a1f8e6a29bb",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9f26ba51-9562-4885-ba7e-441984e15065",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.973743945,
+            51.285080206
+          ],
+          [
+            -115.973743945,
+            51.28238527
+          ]
+        ]
+      },
+      "properties": {
+        "id": "9f26ba51-9562-4885-ba7e-441984e15065",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b5402aea-61f1-41fd-8085-989381148811",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.973743945,
+            51.28238527
+          ],
+          [
+            -115.971590274,
+            51.28238527
+          ]
+        ]
+      },
+      "properties": {
+        "id": "b5402aea-61f1-41fd-8085-989381148811",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1ae23f9f-147d-428d-bbc2-027ffb9e659f",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.972308165,
+            51.282834426
+          ],
+          [
+            -115.972308165,
+            51.28238527
+          ]
+        ]
+      },
+      "properties": {
+        "id": "1ae23f9f-147d-428d-bbc2-027ffb9e659f",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "30437f58-db1f-4611-a4c7-38fc4a3f0015",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.968000823,
+            51.282834426
+          ],
+          [
+            -115.972308165,
+            51.282834426
+          ]
+        ]
+      },
+      "properties": {
+        "id": "30437f58-db1f-4611-a4c7-38fc4a3f0015",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9b4de89b-bc35-4b58-b906-dfa41e1360bb",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.968000823,
+            51.283732738
+          ],
+          [
+            -115.975179726,
+            51.283732738
+          ]
+        ]
+      },
+      "properties": {
+        "id": "9b4de89b-bc35-4b58-b906-dfa41e1360bb",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eba9472c-de37-49d5-9d60-d8cc7d93f3ee",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.977333397,
+            51.283732738
+          ],
+          [
+            -115.975179726,
+            51.283732738
+          ]
+        ]
+      },
+      "properties": {
+        "id": "eba9472c-de37-49d5-9d60-d8cc7d93f3ee",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "721d7f42-4fbd-4d51-8397-72629cfe8270",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.971590274,
+            51.281037802
+          ],
+          [
+            -115.971590274,
+            51.28238527
+          ]
+        ]
+      },
+      "properties": {
+        "id": "721d7f42-4fbd-4d51-8397-72629cfe8270",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c4ddf0b8-357f-4222-a043-25a7a00cf719",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.968000823,
+            51.281037802
+          ],
+          [
+            -115.971590274,
+            51.281037802
+          ]
+        ]
+      },
+      "properties": {
+        "id": "c4ddf0b8-357f-4222-a043-25a7a00cf719",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d5f28447-5643-42c6-bfdb-5b9b146ea87a",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.968000823,
+            51.279241178
+          ],
+          [
+            -115.964411371,
+            51.277444554
+          ],
+          [
+            -115.96010403,
+            51.275198774
+          ],
+          [
+            -115.958668249,
+            51.275198774
+          ]
+        ]
+      },
+      "properties": {
+        "id": "d5f28447-5643-42c6-bfdb-5b9b146ea87a",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "63edfd56-e760-48ac-84b5-c7603a17bca6",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.968000823,
+            51.281037802
+          ],
+          [
+            -115.968000823,
+            51.279241178
+          ]
+        ]
+      },
+      "properties": {
+        "id": "63edfd56-e760-48ac-84b5-c7603a17bca6",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a5d520c8-9a7e-433e-8e7d-b40138c58c8a",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.944310443,
+            51.272952994
+          ],
+          [
+            -115.944310443,
+            51.270258058
+          ]
+        ]
+      },
+      "properties": {
+        "id": "a5d520c8-9a7e-433e-8e7d-b40138c58c8a",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "84738465-471f-41ea-8d0d-1b91fe41afad",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.940720991,
+            51.272952994
+          ],
+          [
+            -115.940720991,
+            51.272503838
+          ]
+        ]
+      },
+      "properties": {
+        "id": "84738465-471f-41ea-8d0d-1b91fe41afad",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fd440566-d32a-4a75-932f-3b5dab65ca9a",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.93784943,
+            51.27115637
+          ],
+          [
+            -115.936413649,
+            51.270258058
+          ]
+        ]
+      },
+      "properties": {
+        "id": "fd440566-d32a-4a75-932f-3b5dab65ca9a",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "85882826-b6f7-44bc-ae3e-2eda64d7bc7f",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.940720991,
+            51.269808902
+          ],
+          [
+            -115.940720991,
+            51.26891059
+          ]
+        ]
+      },
+      "properties": {
+        "id": "85882826-b6f7-44bc-ae3e-2eda64d7bc7f",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f173d55a-cf89-4458-aeee-ffdff55e4655",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.940720991,
+            51.26891059
+          ],
+          [
+            -115.940720991,
+            51.267563122
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f173d55a-cf89-4458-aeee-ffdff55e4655",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c8188a28-1a7b-455f-bdc8-81d4d9feaf30",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.93784943,
+            51.26891059
+          ],
+          [
+            -115.93784943,
+            51.267563122
+          ]
+        ]
+      },
+      "properties": {
+        "id": "c8188a28-1a7b-455f-bdc8-81d4d9feaf30",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ce832a87-c5ec-47df-8083-60466c8a5e64",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.93784943,
+            51.267563122
+          ],
+          [
+            -115.93784943,
+            51.26666481
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ce832a87-c5ec-47df-8083-60466c8a5e64",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e6ddaa0e-f42e-4ea5-bd44-8e57af1cca4b",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.936413649,
+            51.26891059
+          ],
+          [
+            -115.936413649,
+            51.26666481
+          ]
+        ]
+      },
+      "properties": {
+        "id": "e6ddaa0e-f42e-4ea5-bd44-8e57af1cca4b",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "746a2995-8dd7-46be-b6cd-6f577b9975f3",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.93784943,
+            51.269808902
+          ],
+          [
+            -115.93784943,
+            51.26891059
+          ]
+        ]
+      },
+      "properties": {
+        "id": "746a2995-8dd7-46be-b6cd-6f577b9975f3",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b3dbf07f-69c7-484b-a343-45db45c17da0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.934977869,
+            51.268461434
+          ],
+          [
+            -115.934977869,
+            51.26666481
+          ]
+        ]
+      },
+      "properties": {
+        "id": "b3dbf07f-69c7-484b-a343-45db45c17da0",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b286e28e-4373-4c32-99ae-69ed6c039cf5",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.933542088,
+            51.267563122
+          ],
+          [
+            -115.933542088,
+            51.26666481
+          ]
+        ]
+      },
+      "properties": {
+        "id": "b286e28e-4373-4c32-99ae-69ed6c039cf5",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d45cdafb-d551-4714-9f54-eb6afdfb354b",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.953643017,
+            51.27564793
+          ],
+          [
+            -115.950053565,
+            51.27564793
+          ],
+          [
+            -115.948617785,
+            51.274749618
+          ],
+          [
+            -115.948617785,
+            51.27340215
+          ]
+        ]
+      },
+      "properties": {
+        "id": "d45cdafb-d551-4714-9f54-eb6afdfb354b",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32bc7e21-f5a9-43df-8e51-0833b7b2a0bd",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.947182004,
+            51.274749618
+          ],
+          [
+            -115.948617785,
+            51.274749618
+          ]
+        ]
+      },
+      "properties": {
+        "id": "32bc7e21-f5a9-43df-8e51-0833b7b2a0bd",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fae8ab50-f4bd-4b62-9ae6-fc67270c8757",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.952207236,
+            51.274749618
+          ],
+          [
+            -115.950771455,
+            51.274749618
+          ],
+          [
+            -115.950053565,
+            51.274300462
+          ],
+          [
+            -115.950053565,
+            51.27340215
+          ]
+        ]
+      },
+      "properties": {
+        "id": "fae8ab50-f4bd-4b62-9ae6-fc67270c8757",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "535f0e3a-e07c-4de4-9b18-7bde89ec05b4",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.950771455,
+            51.274749618
+          ],
+          [
+            -115.948617785,
+            51.274749618
+          ]
+        ]
+      },
+      "properties": {
+        "id": "535f0e3a-e07c-4de4-9b18-7bde89ec05b4",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5e4bad97-0728-4de0-ba72-7ab85bdf5395",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.942874662,
+            51.275198774
+          ],
+          [
+            -115.942874662,
+            51.27340215
+          ]
+        ]
+      },
+      "properties": {
+        "id": "5e4bad97-0728-4de0-ba72-7ab85bdf5395",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b2da46c2-b2dc-40d6-a955-d2b2c7747177",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.965847152,
+            51.28238527
+          ],
+          [
+            -115.951489346,
+            51.27340215
+          ],
+          [
+            -115.950053565,
+            51.27340215
+          ]
+        ]
+      },
+      "properties": {
+        "id": "b2da46c2-b2dc-40d6-a955-d2b2c7747177",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8339b7a1-97f8-4f2a-9c89-7f3d5ef57e1a",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.956514578,
+            51.277444554
+          ],
+          [
+            -115.953643017,
+            51.277444554
+          ]
+        ]
+      },
+      "properties": {
+        "id": "8339b7a1-97f8-4f2a-9c89-7f3d5ef57e1a",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7a3dd682-41a6-434f-8207-a34907b8d639",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.947899894,
+            51.277444554
+          ],
+          [
+            -115.946464114,
+            51.276995398
+          ],
+          [
+            -115.944310443,
+            51.27564793
+          ],
+          [
+            -115.942156772,
+            51.27564793
+          ]
+        ]
+      },
+      "properties": {
+        "id": "7a3dd682-41a6-434f-8207-a34907b8d639",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9eb5a2b5-50aa-476a-bf62-0e68f9a64cc2",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.947899894,
+            51.277444554
+          ],
+          [
+            -115.953643017,
+            51.277444554
+          ]
+        ]
+      },
+      "properties": {
+        "id": "9eb5a2b5-50aa-476a-bf62-0e68f9a64cc2",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "01494596-9d9b-4dc2-93ad-12440034b9fa",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.93784943,
+            51.272952994
+          ],
+          [
+            -115.949335675,
+            51.272952994
+          ]
+        ]
+      },
+      "properties": {
+        "id": "01494596-9d9b-4dc2-93ad-12440034b9fa",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5eaae60c-f316-488e-a3a8-f50f7352624c",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.936413649,
+            51.272952994
+          ],
+          [
+            -115.93784943,
+            51.272952994
+          ]
+        ]
+      },
+      "properties": {
+        "id": "5eaae60c-f316-488e-a3a8-f50f7352624c",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e0cece62-77bc-4a54-8594-02e6dbd1011c",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.936413649,
+            51.272952994
+          ],
+          [
+            -115.936413649,
+            51.272503838
+          ]
+        ]
+      },
+      "properties": {
+        "id": "e0cece62-77bc-4a54-8594-02e6dbd1011c",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "becb710a-236b-458d-9c2e-703bf2c4f565",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.93784943,
+            51.269808902
+          ],
+          [
+            -115.944310443,
+            51.269808902
+          ]
+        ]
+      },
+      "properties": {
+        "id": "becb710a-236b-458d-9c2e-703bf2c4f565",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cdc3e0ef-7e35-47c4-8183-55b7cc24fa98",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.93784943,
+            51.269808902
+          ],
+          [
+            -115.93713154,
+            51.269808902
+          ]
+        ]
+      },
+      "properties": {
+        "id": "cdc3e0ef-7e35-47c4-8183-55b7cc24fa98",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a522ec56-e435-4ef7-97ff-416bb89bb024",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.962975591,
+            51.27789371
+          ],
+          [
+            -115.964411371,
+            51.277444554
+          ]
+        ]
+      },
+      "properties": {
+        "id": "a522ec56-e435-4ef7-97ff-416bb89bb024",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "61d13e18-f5d3-40cb-b517-1c9402401b30",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.96010403,
+            51.275198774
+          ],
+          [
+            -115.955796688,
+            51.272952994
+          ],
+          [
+            -115.955078797,
+            51.272952994
+          ]
+        ]
+      },
+      "properties": {
+        "id": "61d13e18-f5d3-40cb-b517-1c9402401b30",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ea117448-d661-463b-b290-ee0085bc472b",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.955078797,
+            51.272952994
+          ],
+          [
+            -115.950771455,
+            51.270707214
+          ],
+          [
+            -115.947182004,
+            51.26891059
+          ],
+          [
+            -115.946464114,
+            51.26891059
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ea117448-d661-463b-b290-ee0085bc472b",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "53dd3e4c-4e2c-48c8-9a5f-a4e2a1c1ab3f",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.950053565,
+            51.27115637
+          ],
+          [
+            -115.950771455,
+            51.270707214
+          ]
+        ]
+      },
+      "properties": {
+        "id": "53dd3e4c-4e2c-48c8-9a5f-a4e2a1c1ab3f",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fefe8cc6-206b-45b5-8858-d08550cbf003",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.967282933,
+            51.284181894
+          ],
+          [
+            -115.966565042,
+            51.28463105
+          ],
+          [
+            -115.964411371,
+            51.283732738
+          ],
+          [
+            -115.964411371,
+            51.283283582
+          ]
+        ]
+      },
+      "properties": {
+        "id": "fefe8cc6-206b-45b5-8858-d08550cbf003",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7df2ab16-c838-422b-a758-2e5b4c686779",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.964411371,
+            51.283283582
+          ],
+          [
+            -115.965847152,
+            51.283283582
+          ]
+        ]
+      },
+      "properties": {
+        "id": "7df2ab16-c838-422b-a758-2e5b4c686779",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0f18c288-af3c-468d-a40e-574c24ef1695",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.970872384,
+            51.285080206
+          ],
+          [
+            -115.970872384,
+            51.28463105
+          ]
+        ]
+      },
+      "properties": {
+        "id": "0f18c288-af3c-468d-a40e-574c24ef1695",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a592fdea-bf77-433e-8d84-73fd56e5a5b4",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.968000823,
+            51.285080206
+          ],
+          [
+            -115.968000823,
+            51.28463105
+          ]
+        ]
+      },
+      "properties": {
+        "id": "a592fdea-bf77-433e-8d84-73fd56e5a5b4",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7210be5c-d78d-463a-ad09-dbb191dff997",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.975179726,
+            51.285529362
+          ],
+          [
+            -115.975179726,
+            51.285080206
+          ]
+        ]
+      },
+      "properties": {
+        "id": "7210be5c-d78d-463a-ad09-dbb191dff997",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "251cdf91-2dea-4fdf-940c-f708b12bf561",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.973026055,
+            51.285080206
+          ],
+          [
+            -115.973026055,
+            51.285529362
+          ]
+        ]
+      },
+      "properties": {
+        "id": "251cdf91-2dea-4fdf-940c-f708b12bf561",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2f31d1ed-7a4f-463e-b89d-25b4368b8923",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.953643017,
+            51.279241178
+          ],
+          [
+            -115.947182004,
+            51.279241178
+          ]
+        ]
+      },
+      "properties": {
+        "id": "2f31d1ed-7a4f-463e-b89d-25b4368b8923",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1a4e99a-746f-43e0-b263-9adc497c4691",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.950771455,
+            51.28013949
+          ],
+          [
+            -115.950771455,
+            51.278342866
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f1a4e99a-746f-43e0-b263-9adc497c4691",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "49f89707-7dbd-4ede-8579-7dee8b302d69",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.947899894,
+            51.279690334
+          ],
+          [
+            -115.947899894,
+            51.278342866
+          ]
+        ]
+      },
+      "properties": {
+        "id": "49f89707-7dbd-4ede-8579-7dee8b302d69",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "70c74997-d911-48a6-95a0-96a7f5422d48",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.950771455,
+            51.278342866
+          ],
+          [
+            -115.950771455,
+            51.277444554
+          ]
+        ]
+      },
+      "properties": {
+        "id": "70c74997-d911-48a6-95a0-96a7f5422d48",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2b5bc115-f46a-4636-a04f-82668bed4c69",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.947899894,
+            51.278342866
+          ],
+          [
+            -115.947899894,
+            51.277444554
+          ]
+        ]
+      },
+      "properties": {
+        "id": "2b5bc115-f46a-4636-a04f-82668bed4c69",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f3339a19-678a-4a41-a089-f7f30b2c3616",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.950771455,
+            51.276097086
+          ],
+          [
+            -115.950771455,
+            51.276995398
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f3339a19-678a-4a41-a089-f7f30b2c3616",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5a8b9a1b-4e55-4b98-bc65-c013ea3b9772",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.948617785,
+            51.276995398
+          ],
+          [
+            -115.948617785,
+            51.276097086
+          ]
+        ]
+      },
+      "properties": {
+        "id": "5a8b9a1b-4e55-4b98-bc65-c013ea3b9772",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6e79a1e4-c737-4d74-b1ce-fb889e135dda",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.950771455,
+            51.276097086
+          ],
+          [
+            -115.950771455,
+            51.27564793
+          ]
+        ]
+      },
+      "properties": {
+        "id": "6e79a1e4-c737-4d74-b1ce-fb889e135dda",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "428060fa-161f-4ac7-a4b4-75890c10b5c7",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.950771455,
+            51.27564793
+          ],
+          [
+            -115.950771455,
+            51.274749618
+          ]
+        ]
+      },
+      "properties": {
+        "id": "428060fa-161f-4ac7-a4b4-75890c10b5c7",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "95f6456f-3cc5-4aff-80ca-2d16d9b72054",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.946464114,
+            51.276995398
+          ],
+          [
+            -115.941438881,
+            51.276995398
+          ]
+        ]
+      },
+      "properties": {
+        "id": "95f6456f-3cc5-4aff-80ca-2d16d9b72054",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2be037ae-ef87-4912-a8ee-b6fa24862589",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.944310443,
+            51.274300462
+          ],
+          [
+            -115.936413649,
+            51.274300462
+          ]
+        ]
+      },
+      "properties": {
+        "id": "2be037ae-ef87-4912-a8ee-b6fa24862589",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eae21b2b-7bf6-4a34-87b9-27d926947a75",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.944310443,
+            51.27564793
+          ],
+          [
+            -115.944310443,
+            51.275198774
+          ]
+        ]
+      },
+      "properties": {
+        "id": "eae21b2b-7bf6-4a34-87b9-27d926947a75",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "44df96c2-65de-47d6-9a80-bb7f2919c4ba",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.940720991,
+            51.272503838
+          ],
+          [
+            -115.940720991,
+            51.270258058
+          ]
+        ]
+      },
+      "properties": {
+        "id": "44df96c2-65de-47d6-9a80-bb7f2919c4ba",
+        "layerType": "line",
+        "category": "transit-route",
+        "icon": "",
+        "mode": "linestring",
+        "cat_transit-route": false,
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "25e3c9a2-c019-4b88-8675-ae6530568ef2",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.950053565,
+            51.27340215
+          ],
+          [
+            -115.945028333,
+            51.27340215
+          ],
+          [
+            -115.939285211,
+            51.27340215
+          ],
+          [
+            -115.939285211,
+            51.26666481
+          ]
+        ]
+      },
+      "properties": {
+        "id": "25e3c9a2-c019-4b88-8675-ae6530568ef2",
+        "layerType": "line",
+        "category": "transit-route",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true,
+        "cat_transit-route": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "51e1d7d4-fe41-4eb0-af54-ac53b95befcb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.971590274,
+          51.283732738
+        ]
+      },
+      "properties": {
+        "id": "51e1d7d4-fe41-4eb0-af54-ac53b95befcb",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35a84822-db94-4030-b0a6-ebab0a31c56b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.93784943,
+          51.267563122
+        ]
+      },
+      "properties": {
+        "id": "35a84822-db94-4030-b0a6-ebab0a31c56b",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c1886173-3609-452f-8697-cf7b391ae976",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.929952636,
+          51.270258058
+        ]
+      },
+      "properties": {
+        "id": "c1886173-3609-452f-8697-cf7b391ae976",
+        "layerType": "point",
+        "category": "hydro-center",
+        "icon": "💧",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fb8362b9-8a62-4718-9251-4f1c6c2762a7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.932106307,
+          51.269359746
+        ]
+      },
+      "properties": {
+        "id": "fb8362b9-8a62-4718-9251-4f1c6c2762a7",
+        "layerType": "point",
+        "category": "hydro-center",
+        "icon": "💧",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7860cf5b-c409-4fa0-b7ac-6026596b3cdf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.933542088,
+          51.268461434
+        ]
+      },
+      "properties": {
+        "id": "7860cf5b-c409-4fa0-b7ac-6026596b3cdf",
+        "layerType": "point",
+        "category": "hydro-center",
+        "icon": "💧",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1565fba-2ecd-4205-a18c-bca719c21ab4",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.964411371,
+            51.283283582
+          ],
+          [
+            -115.962975591,
+            51.283732738
+          ],
+          [
+            -115.963693481,
+            51.284181894
+          ],
+          [
+            -115.966565042,
+            51.285080206
+          ],
+          [
+            -115.968000823,
+            51.285080206
+          ],
+          [
+            -115.970872384,
+            51.285080206
+          ],
+          [
+            -115.973026055,
+            51.285529362
+          ],
+          [
+            -115.975179726,
+            51.285529362
+          ],
+          [
+            -115.977333397,
+            51.285080206
+          ],
+          [
+            -115.977333397,
+            51.283732738
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f1565fba-2ecd-4205-a18c-bca719c21ab4",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fa7760c7-2abf-430b-93b2-abc5096c45dc",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.973026055,
+            51.285080206
+          ],
+          [
+            -115.975179726,
+            51.285080206
+          ],
+          [
+            -115.977333397,
+            51.28463105
+          ],
+          [
+            -115.977333397,
+            51.283732738
+          ],
+          [
+            -115.975179726,
+            51.282834426
+          ]
+        ]
+      },
+      "properties": {
+        "id": "fa7760c7-2abf-430b-93b2-abc5096c45dc",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "392d72e6-8db0-4230-a6a4-de2acc8d32e5",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.973026055,
+            51.285080206
+          ],
+          [
+            -115.973026055,
+            51.285080206
+          ]
+        ]
+      },
+      "properties": {
+        "id": "392d72e6-8db0-4230-a6a4-de2acc8d32e5",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4c4b6654-f121-4544-bbdb-a1eb2f3cea33",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.973026055,
+            51.285080206
+          ],
+          [
+            -115.971590274,
+            51.28463105
+          ]
+        ]
+      },
+      "properties": {
+        "id": "4c4b6654-f121-4544-bbdb-a1eb2f3cea33",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d95db4c6-fc55-404d-a780-cce98de3c663",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.975179726,
+            51.282834426
+          ],
+          [
+            -115.973743945,
+            51.28238527
+          ],
+          [
+            -115.975179726,
+            51.282834426
+          ]
+        ]
+      },
+      "properties": {
+        "id": "d95db4c6-fc55-404d-a780-cce98de3c663",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8bc42d7f-d129-46cb-acf5-ba3aaeb9dcb0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.973743945,
+            51.28238527
+          ],
+          [
+            -115.971590274,
+            51.281037802
+          ]
+        ]
+      },
+      "properties": {
+        "id": "8bc42d7f-d129-46cb-acf5-ba3aaeb9dcb0",
+        "layerType": "line",
+        "category": "road-local",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9c12e7e9-487e-479c-8ee5-0767c08172bc",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.957232468,
+            51.28013949
+          ],
+          [
+            -115.958668249,
+            51.280588648
+          ],
+          [
+            -115.96010403,
+            51.281037802
+          ],
+          [
+            -115.962975591,
+            51.28238527
+          ],
+          [
+            -115.963693481,
+            51.28238527
+          ],
+          [
+            -115.964411371,
+            51.28238527
+          ]
+        ]
+      },
+      "properties": {
+        "id": "9c12e7e9-487e-479c-8ee5-0767c08172bc",
+        "layerType": "zone",
+        "category": "high-density",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "057f6dab-7c0b-4de1-a189-57e7eb872a08",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.93784943,
+            51.272952994
+          ],
+          [
+            -115.93784943,
+            51.272054691
+          ],
+          [
+            -115.93784943,
+            51.27115637
+          ]
+        ]
+      },
+      "properties": {
+        "id": "057f6dab-7c0b-4de1-a189-57e7eb872a08",
+        "layerType": "zone",
+        "category": "high-density",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22a5d20e-8199-44d2-8198-c3e14d5dfe30",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.968000823,
+            51.28238527
+          ],
+          [
+            -115.968000823,
+            51.28238527
+          ],
+          [
+            -115.962616646,
+            51.279016724
+          ],
+          [
+            -115.959924557,
+            51.277332358
+          ],
+          [
+            -115.957232468,
+            51.27564793
+          ]
+        ]
+      },
+      "properties": {
+        "id": "22a5d20e-8199-44d2-8198-c3e14d5dfe30",
+        "layerType": "zone",
+        "category": "high-density",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "162b987f-e49c-4a5c-9be8-998c6f1e8df6",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.936413649,
+            51.271605526
+          ],
+          [
+            -115.93784943,
+            51.27115637
+          ],
+          [
+            -115.939285211,
+            51.27115637
+          ]
+        ]
+      },
+      "properties": {
+        "id": "162b987f-e49c-4a5c-9be8-998c6f1e8df6",
+        "layerType": "zone",
+        "category": "high-density",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3759bbb0-9ca2-4a1c-a081-14725a32e726",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.953643017,
+              51.278342866
+            ],
+            [
+              -115.953643017,
+              51.277444554
+            ],
+            [
+              -115.947899894,
+              51.277444554
+            ],
+            [
+              -115.946464114,
+              51.276995398
+            ],
+            [
+              -115.945028333,
+              51.276097086
+            ],
+            [
+              -115.944310443,
+              51.27564793
+            ],
+            [
+              -115.943592552,
+              51.27564793
+            ],
+            [
+              -115.942156772,
+              51.27564793
+            ],
+            [
+              -115.945746223,
+              51.278342866
+            ],
+            [
+              -115.953643017,
+              51.278342866
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "3759bbb0-9ca2-4a1c-a081-14725a32e726",
+        "layerType": "zone",
+        "category": "high-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4f1efd3a-e953-4d0c-94a2-90e80c6d517e",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.944310443,
+            51.275198774
+          ],
+          [
+            -115.944310443,
+            51.275198774
+          ],
+          [
+            -115.944310443,
+            51.274749618
+          ],
+          [
+            -115.944310443,
+            51.27340215
+          ]
+        ]
+      },
+      "properties": {
+        "id": "4f1efd3a-e953-4d0c-94a2-90e80c6d517e",
+        "layerType": "zone",
+        "category": "high-density",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "be63d9e3-e536-45a0-ae26-3209d065cdb3",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.942874662,
+              51.275198774
+            ],
+            [
+              -115.942874662,
+              51.27340215
+            ],
+            [
+              -115.939285211,
+              51.27340215
+            ],
+            [
+              -115.939285211,
+              51.273851306
+            ],
+            [
+              -115.941438881,
+              51.275198774
+            ],
+            [
+              -115.942874662,
+              51.275198774
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "be63d9e3-e536-45a0-ae26-3209d065cdb3",
+        "layerType": "zone",
+        "category": "high-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7bfb3ee3-7994-414a-862c-6ab687f66a06",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.971590274,
+            51.28238527
+          ],
+          [
+            -115.971590274,
+            51.283508174
+          ],
+          [
+            -115.971590274,
+            51.28463105
+          ],
+          [
+            -115.968000823,
+            51.28463105
+          ]
+        ]
+      },
+      "properties": {
+        "id": "7bfb3ee3-7994-414a-862c-6ab687f66a06",
+        "layerType": "zone",
+        "category": "high-density",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0632650b-15f7-4605-a22d-d19d408f56d6",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.948617785,
+              51.276995398
+            ],
+            [
+              -115.948617785,
+              51.276097086
+            ],
+            [
+              -115.947182004,
+              51.275198774
+            ],
+            [
+              -115.945746223,
+              51.275198774
+            ],
+            [
+              -115.945746223,
+              51.27564793
+            ],
+            [
+              -115.946464114,
+              51.276546242
+            ],
+            [
+              -115.947899894,
+              51.276995398
+            ],
+            [
+              -115.948617785,
+              51.276995398
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "0632650b-15f7-4605-a22d-d19d408f56d6",
+        "layerType": "zone",
+        "category": "high-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d73dd6e2-e7f0-4d41-9d11-eb6c295a22e5",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.953643017,
+              51.276995398
+            ],
+            [
+              -115.953643017,
+              51.276097086
+            ],
+            [
+              -115.948617785,
+              51.276097086
+            ],
+            [
+              -115.948617785,
+              51.276995398
+            ],
+            [
+              -115.953643017,
+              51.276995398
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "d73dd6e2-e7f0-4d41-9d11-eb6c295a22e5",
+        "layerType": "zone",
+        "category": "high-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "81c390b5-2aa8-4720-a72b-722275439546",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.953643017,
+            51.27564793
+          ],
+          [
+            -115.953643017,
+            51.276097086
+          ],
+          [
+            -115.948617785,
+            51.276097086
+          ],
+          [
+            -115.947182004,
+            51.275198774
+          ],
+          [
+            -115.947182004,
+            51.274749618
+          ],
+          [
+            -115.947182004,
+            51.27340215
+          ]
+        ]
+      },
+      "properties": {
+        "id": "81c390b5-2aa8-4720-a72b-722275439546",
+        "layerType": "zone",
+        "category": "high-density",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true,
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7a8d1ab7-80a2-4903-afbd-48b6b3fb9765",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.945746223,
+              51.278342866
+            ],
+            [
+              -115.942156772,
+              51.27564793
+            ],
+            [
+              -115.939285211,
+              51.27564793
+            ],
+            [
+              -115.943592552,
+              51.278342866
+            ],
+            [
+              -115.945746223,
+              51.278342866
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "7a8d1ab7-80a2-4903-afbd-48b6b3fb9765",
+        "layerType": "zone",
+        "category": "medium-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4330c021-8a61-4d20-9917-2143a2bf5cfe",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.940720991,
+              51.274749618
+            ],
+            [
+              -115.939285211,
+              51.273851306
+            ],
+            [
+              -115.939285211,
+              51.27340215
+            ],
+            [
+              -115.936413649,
+              51.27340215
+            ],
+            [
+              -115.936413649,
+              51.274300462
+            ],
+            [
+              -115.93784943,
+              51.275198774
+            ],
+            [
+              -115.941438881,
+              51.275198774
+            ],
+            [
+              -115.940720991,
+              51.274749618
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "4330c021-8a61-4d20-9917-2143a2bf5cfe",
+        "layerType": "zone",
+        "category": "medium-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6e020c4c-0050-4835-a786-7727d302d028",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.956514578,
+              51.277444554
+            ],
+            [
+              -115.954360907,
+              51.277444554
+            ],
+            [
+              -115.954360907,
+              51.27789371
+            ],
+            [
+              -115.957232468,
+              51.27789371
+            ],
+            [
+              -115.956514578,
+              51.277444554
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "6e020c4c-0050-4835-a786-7727d302d028",
+        "layerType": "zone",
+        "category": "medium-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7371b767-ea3a-469b-9ae7-ac947466b2ea",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.953643017,
+              51.276995398
+            ],
+            [
+              -115.955796688,
+              51.276995398
+            ],
+            [
+              -115.953643017,
+              51.27564793
+            ],
+            [
+              -115.953643017,
+              51.276995398
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "7371b767-ea3a-469b-9ae7-ac947466b2ea",
+        "layerType": "zone",
+        "category": "medium-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "73a32a4e-d63a-4415-ab2f-28772eb30b41",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.949335675,
+              51.272952994
+            ],
+            [
+              -115.948617785,
+              51.272503838
+            ],
+            [
+              -115.946464114,
+              51.272503838
+            ],
+            [
+              -115.946464114,
+              51.272952994
+            ],
+            [
+              -115.949335675,
+              51.272952994
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "73a32a4e-d63a-4415-ab2f-28772eb30b41",
+        "layerType": "zone",
+        "category": "medium-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22d4907c-77eb-4839-84e4-6b6134748526",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.946464114,
+              51.272952994
+            ],
+            [
+              -115.946464114,
+              51.272503838
+            ],
+            [
+              -115.942874662,
+              51.272503838
+            ],
+            [
+              -115.942874662,
+              51.272952994
+            ],
+            [
+              -115.946464114,
+              51.272952994
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "22d4907c-77eb-4839-84e4-6b6134748526",
+        "layerType": "zone",
+        "category": "medium-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7249b2bf-144a-45b5-b761-8780aee5c0af",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.942874662,
+              51.272952994
+            ],
+            [
+              -115.942874662,
+              51.272503838
+            ],
+            [
+              -115.939285211,
+              51.272503838
+            ],
+            [
+              -115.939285211,
+              51.272952994
+            ],
+            [
+              -115.942874662,
+              51.272952994
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "7249b2bf-144a-45b5-b761-8780aee5c0af",
+        "layerType": "zone",
+        "category": "medium-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0060b59a-f739-4bd1-add6-21ef53c74fe4",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.965847152,
+              51.28238527
+            ],
+            [
+              -115.957950359,
+              51.277444554
+            ],
+            [
+              -115.956514578,
+              51.277444554
+            ],
+            [
+              -115.964411371,
+              51.28238527
+            ],
+            [
+              -115.965847152,
+              51.28238527
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "0060b59a-f739-4bd1-add6-21ef53c74fe4",
+        "layerType": "zone",
+        "category": "medium-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c579092f-e077-4456-8cca-de5b1356a6e5",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.957232468,
+              51.276995398
+            ],
+            [
+              -115.951489346,
+              51.27340215
+            ],
+            [
+              -115.950053565,
+              51.27340215
+            ],
+            [
+              -115.955796688,
+              51.276995398
+            ],
+            [
+              -115.957232468,
+              51.276995398
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "c579092f-e077-4456-8cca-de5b1356a6e5",
+        "layerType": "zone",
+        "category": "medium-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20850f0f-10d8-4d85-bb26-64948b74944f",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.968000823,
+              51.28238527
+            ],
+            [
+              -115.964411371,
+              51.28013949
+            ],
+            [
+              -115.962975591,
+              51.28013949
+            ],
+            [
+              -115.966565042,
+              51.28238527
+            ],
+            [
+              -115.968000823,
+              51.28238527
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "20850f0f-10d8-4d85-bb26-64948b74944f",
+        "layerType": "zone",
+        "category": "medium-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4976aad6-2309-4f09-8e71-2a5e46a39a74",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.964411371,
+              51.28013949
+            ],
+            [
+              -115.953643017,
+              51.27340215
+            ],
+            [
+              -115.952207236,
+              51.27340215
+            ],
+            [
+              -115.962975591,
+              51.28013949
+            ],
+            [
+              -115.964411371,
+              51.28013949
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "4976aad6-2309-4f09-8e71-2a5e46a39a74",
+        "layerType": "zone",
+        "category": "medium-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5524ebc0-bf65-496c-9d4c-b7f1a5340027",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.971590274,
+              51.28463105
+            ],
+            [
+              -115.971590274,
+              51.282834426
+            ],
+            [
+              -115.970872384,
+              51.282834426
+            ],
+            [
+              -115.970872384,
+              51.28463105
+            ],
+            [
+              -115.971590274,
+              51.28463105
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "5524ebc0-bf65-496c-9d4c-b7f1a5340027",
+        "layerType": "zone",
+        "category": "medium-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "813a0967-5558-4a80-a12b-8ce226f35a48",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.967282933,
+              51.282834426
+            ],
+            [
+              -115.971590274,
+              51.282834426
+            ],
+            [
+              -115.971590274,
+              51.28238527
+            ],
+            [
+              -115.967282933,
+              51.28238527
+            ],
+            [
+              -115.966565042,
+              51.28238527
+            ],
+            [
+              -115.967282933,
+              51.282834426
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "813a0967-5558-4a80-a12b-8ce226f35a48",
+        "layerType": "zone",
+        "category": "medium-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9562f44a-e263-4919-8369-4ff23f0c360a",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.96082192,
+              51.28013949
+            ],
+            [
+              -115.96010403,
+              51.279690334
+            ],
+            [
+              -115.954360907,
+              51.279690334
+            ],
+            [
+              -115.954360907,
+              51.28013949
+            ],
+            [
+              -115.96082192,
+              51.28013949
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "9562f44a-e263-4919-8369-4ff23f0c360a",
+        "layerType": "zone",
+        "category": "medium-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "314bfaaf-5411-4c28-ae2f-ddd3cd27f962",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.953643017,
+              51.28013949
+            ],
+            [
+              -115.953643017,
+              51.278342866
+            ],
+            [
+              -115.945746223,
+              51.278342866
+            ],
+            [
+              -115.947899894,
+              51.279690334
+            ],
+            [
+              -115.950771455,
+              51.28013949
+            ],
+            [
+              -115.953643017,
+              51.28013949
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "314bfaaf-5411-4c28-ae2f-ddd3cd27f962",
+        "layerType": "zone",
+        "category": "medium-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8ce90663-df2a-425a-a43c-8eb98f7a137f",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.942874662,
+              51.270707214
+            ],
+            [
+              -115.942874662,
+              51.270258058
+            ],
+            [
+              -115.939285211,
+              51.270258058
+            ],
+            [
+              -115.939285211,
+              51.270707214
+            ],
+            [
+              -115.942874662,
+              51.270707214
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "8ce90663-df2a-425a-a43c-8eb98f7a137f",
+        "layerType": "zone",
+        "category": "medium-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12ecde93-ec35-41ff-bf5d-16a7524bd185",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.953643017,
+              51.27564793
+            ],
+            [
+              -115.952207236,
+              51.274749618
+            ],
+            [
+              -115.948617785,
+              51.274749618
+            ],
+            [
+              -115.950053565,
+              51.27564793
+            ],
+            [
+              -115.953643017,
+              51.27564793
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "12ecde93-ec35-41ff-bf5d-16a7524bd185",
+        "layerType": "zone",
+        "category": "medium-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "51a46fdb-91f3-422f-95f3-23ba75d5b30b",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.953643017,
+              51.276097086
+            ],
+            [
+              -115.953643017,
+              51.27564793
+            ],
+            [
+              -115.950053565,
+              51.27564793
+            ],
+            [
+              -115.948617785,
+              51.274749618
+            ],
+            [
+              -115.947182004,
+              51.274749618
+            ],
+            [
+              -115.947182004,
+              51.275198774
+            ],
+            [
+              -115.948617785,
+              51.276097086
+            ],
+            [
+              -115.953643017,
+              51.276097086
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "51a46fdb-91f3-422f-95f3-23ba75d5b30b",
+        "layerType": "zone",
+        "category": "medium-density",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5ffa1d31-e3d3-45d6-9121-ddfe013a6b07",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.953643017,
+            51.27564793
+          ],
+          [
+            -115.968000823,
+            51.28463105
+          ],
+          [
+            -115.968000823,
+            51.28238527
+          ]
+        ]
+      },
+      "properties": {
+        "id": "5ffa1d31-e3d3-45d6-9121-ddfe013a6b07",
+        "layerType": "zone",
+        "category": "medium-density",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "44258de5-8866-4c06-9e7c-ae2d87433283",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.934259978,
+              51.269808902
+            ],
+            [
+              -115.946464114,
+              51.269808902
+            ],
+            [
+              -115.946464114,
+              51.26891059
+            ],
+            [
+              -115.935695759,
+              51.26891059
+            ],
+            [
+              -115.934259978,
+              51.269808902
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "44258de5-8866-4c06-9e7c-ae2d87433283",
+        "layerType": "zone",
+        "category": "mixed-use",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b8703035-6ddd-44f5-8638-9403e1b58d65",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.968000823,
+              51.285080206
+            ],
+            [
+              -115.968000823,
+              51.28463105
+            ],
+            [
+              -115.968000823,
+              51.283732738
+            ],
+            [
+              -115.966565042,
+              51.283732738
+            ],
+            [
+              -115.967282933,
+              51.284181894
+            ],
+            [
+              -115.966565042,
+              51.28463105
+            ],
+            [
+              -115.964411371,
+              51.283732738
+            ],
+            [
+              -115.964411371,
+              51.283283582
+            ],
+            [
+              -115.962975591,
+              51.283732738
+            ],
+            [
+              -115.963693481,
+              51.284181894
+            ],
+            [
+              -115.966565042,
+              51.285080206
+            ],
+            [
+              -115.968000823,
+              51.285080206
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "b8703035-6ddd-44f5-8638-9403e1b58d65",
+        "layerType": "zone",
+        "category": "mixed-use",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96b05e5f-60a4-44dd-9eba-00c02b6ef291",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.971590274,
+              51.282834426
+            ],
+            [
+              -115.973743945,
+              51.282834426
+            ],
+            [
+              -115.973743945,
+              51.28238527
+            ],
+            [
+              -115.971590274,
+              51.28238527
+            ],
+            [
+              -115.971590274,
+              51.282834426
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "96b05e5f-60a4-44dd-9eba-00c02b6ef291",
+        "layerType": "zone",
+        "category": "mixed-use",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "de8ca85b-d760-4006-ad82-11dceec22ee1",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.948617785,
+              51.272503838
+            ],
+            [
+              -115.946464114,
+              51.27115637
+            ],
+            [
+              -115.939285211,
+              51.27115637
+            ],
+            [
+              -115.939285211,
+              51.272503838
+            ],
+            [
+              -115.948617785,
+              51.272503838
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "de8ca85b-d760-4006-ad82-11dceec22ee1",
+        "layerType": "zone",
+        "category": "mixed-use",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f0273a17-0a3d-47c1-b8ae-e91708fd578f",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.950771455,
+              51.272952994
+            ],
+            [
+              -115.946464114,
+              51.270258058
+            ],
+            [
+              -115.945028333,
+              51.270258058
+            ],
+            [
+              -115.949335675,
+              51.272952994
+            ],
+            [
+              -115.950771455,
+              51.272952994
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f0273a17-0a3d-47c1-b8ae-e91708fd578f",
+        "layerType": "zone",
+        "category": "mixed-use",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6ff5012d-998d-40a9-b679-6d72c838b4ee",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.946464114,
+              51.27115637
+            ],
+            [
+              -115.945028333,
+              51.270258058
+            ],
+            [
+              -115.942874662,
+              51.270258058
+            ],
+            [
+              -115.942874662,
+              51.27115637
+            ],
+            [
+              -115.946464114,
+              51.27115637
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "6ff5012d-998d-40a9-b679-6d72c838b4ee",
+        "layerType": "zone",
+        "category": "mixed-use",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1dd9ff7f-d12a-4b17-9c45-b96682767ee4",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.942874662,
+              51.26891059
+            ],
+            [
+              -115.940720991,
+              51.267563122
+            ],
+            [
+              -115.939285211,
+              51.267563122
+            ],
+            [
+              -115.939285211,
+              51.26891059
+            ],
+            [
+              -115.942874662,
+              51.26891059
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "1dd9ff7f-d12a-4b17-9c45-b96682767ee4",
+        "layerType": "zone",
+        "category": "industrial-utility",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6a1d1514-2d8d-4719-aeee-f92f635c2e97",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.968000823,
+              51.28238527
+            ],
+            [
+              -115.968000823,
+              51.281037802
+            ],
+            [
+              -115.955078797,
+              51.272952994
+            ],
+            [
+              -115.953643017,
+              51.27340215
+            ],
+            [
+              -115.968000823,
+              51.28238527
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "6a1d1514-2d8d-4719-aeee-f92f635c2e97",
+        "layerType": "zone",
+        "category": "mixed-use",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b682efdc-efec-41f8-b952-496ddd07f0e2",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.970872384,
+              51.28463105
+            ],
+            [
+              -115.970872384,
+              51.282834426
+            ],
+            [
+              -115.968000823,
+              51.282834426
+            ],
+            [
+              -115.968000823,
+              51.28463105
+            ],
+            [
+              -115.970872384,
+              51.28463105
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "b682efdc-efec-41f8-b952-496ddd07f0e2",
+        "layerType": "zone",
+        "category": "mixed-use",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7776d45c-d7a7-4ea7-b507-f2ca99e09862",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.971590275,
+              51.28463105
+            ],
+            [
+              -115.973026056,
+              51.285080206
+            ],
+            [
+              -115.975179727,
+              51.285080206
+            ],
+            [
+              -115.977333398,
+              51.28463105
+            ],
+            [
+              -115.977333398,
+              51.283732738
+            ],
+            [
+              -115.975179727,
+              51.282834426
+            ],
+            [
+              -115.973743946,
+              51.28238527
+            ],
+            [
+              -115.973743946,
+              51.282834426
+            ],
+            [
+              -115.971590275,
+              51.282834426
+            ],
+            [
+              -115.971590275,
+              51.284181894
+            ],
+            [
+              -115.971590275,
+              51.28463105
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "7776d45c-d7a7-4ea7-b507-f2ca99e09862",
+        "layerType": "zone",
+        "category": "mixed-use",
+        "icon": "",
+        "mode": "polygon",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "61965f1a-0e93-46fb-bd93-ef0ca58afda5",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.939285211,
+              51.27115637
+            ],
+            [
+              -115.93784943,
+              51.270258058
+            ],
+            [
+              -115.934977869,
+              51.270258058
+            ],
+            [
+              -115.935695759,
+              51.270707214
+            ],
+            [
+              -115.936413649,
+              51.271605526
+            ],
+            [
+              -115.93784943,
+              51.27115637
+            ],
+            [
+              -115.939285211,
+              51.27115637
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "61965f1a-0e93-46fb-bd93-ef0ca58afda5",
+        "layerType": "zone",
+        "category": "mixed-use",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "928077b0-8fd3-4380-8296-567b880dbc22",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.936413649,
+              51.271605526
+            ],
+            [
+              -115.936413649,
+              51.272952994
+            ],
+            [
+              -115.939285211,
+              51.272952994
+            ],
+            [
+              -115.939285211,
+              51.27115637
+            ],
+            [
+              -115.93784943,
+              51.27115637
+            ],
+            [
+              -115.936413649,
+              51.271605526
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "928077b0-8fd3-4380-8296-567b880dbc22",
+        "layerType": "zone",
+        "category": "mixed-use",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "49bc2dcd-8b5f-45d6-ad7b-6cc60fb72d6c",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.975179726,
+            51.28463105
+          ],
+          [
+            -115.975179726,
+            51.283732738
+          ],
+          [
+            -115.975179726,
+            51.282834426
+          ],
+          [
+            -115.973743945,
+            51.282834426
+          ],
+          [
+            -115.972308165,
+            51.282834426
+          ],
+          [
+            -115.972308165,
+            51.28463105
+          ],
+          [
+            -115.973743945,
+            51.28463105
+          ],
+          [
+            -115.974461836,
+            51.28463105
+          ],
+          [
+            -115.975179726,
+            51.28463105
+          ]
+        ]
+      },
+      "properties": {
+        "id": "49bc2dcd-8b5f-45d6-ad7b-6cc60fb72d6c",
+        "layerType": "zone",
+        "category": "mixed-use",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12c7e7a4-d9ec-4524-9793-31e7d1d52ce3",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.946464114,
+              51.26891059
+            ],
+            [
+              -115.946464114,
+              51.269808902
+            ],
+            [
+              -115.952207236,
+              51.27340215
+            ],
+            [
+              -115.953643017,
+              51.27340215
+            ],
+            [
+              -115.946464114,
+              51.26891059
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "12c7e7a4-d9ec-4524-9793-31e7d1d52ce3",
+        "layerType": "zone",
+        "category": "mixed-use",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17b65631-df10-4425-bc9f-b49949a81b5c",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.939285211,
+              51.27115637
+            ],
+            [
+              -115.939285211,
+              51.270258058
+            ],
+            [
+              -115.93784943,
+              51.270258058
+            ],
+            [
+              -115.93784943,
+              51.270258058
+            ],
+            [
+              -115.939285211,
+              51.27115637
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "17b65631-df10-4425-bc9f-b49949a81b5c",
+        "layerType": "zone",
+        "category": "mixed-use",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b913af19-e913-4ea9-8506-73233b5420d9",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.942874662,
+              51.27115637
+            ],
+            [
+              -115.942874662,
+              51.270707214
+            ],
+            [
+              -115.939285211,
+              51.270707214
+            ],
+            [
+              -115.939285211,
+              51.27115637
+            ],
+            [
+              -115.942874662,
+              51.27115637
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "b913af19-e913-4ea9-8506-73233b5420d9",
+        "layerType": "zone",
+        "category": "mixed-use",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f926d10d-6dcf-469e-9c89-705ac68a507b",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.939285211,
+              51.26891059
+            ],
+            [
+              -115.939285211,
+              51.267563122
+            ],
+            [
+              -115.933542088,
+              51.267563122
+            ],
+            [
+              -115.935695759,
+              51.26891059
+            ],
+            [
+              -115.939285211,
+              51.26891059
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f926d10d-6dcf-469e-9c89-705ac68a507b",
+        "layerType": "zone",
+        "category": "industrial-utility",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "72acdc3f-5963-4a52-819b-660789ba1615",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.934259978,
+              51.269808902
+            ],
+            [
+              -115.935695759,
+              51.26891059
+            ],
+            [
+              -115.932106307,
+              51.26666481
+            ],
+            [
+              -115.927798966,
+              51.26666481
+            ],
+            [
+              -115.934259978,
+              51.269808902
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "72acdc3f-5963-4a52-819b-660789ba1615",
+        "layerType": "zone",
+        "category": "hydroelectric-plant",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2eba23cb-19c7-4516-adf0-b686f32de9bd",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.940720991,
+              51.267563122
+            ],
+            [
+              -115.939285211,
+              51.26666481
+            ],
+            [
+              -115.932106307,
+              51.26666481
+            ],
+            [
+              -115.933542088,
+              51.267563122
+            ],
+            [
+              -115.940720991,
+              51.267563122
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "2eba23cb-19c7-4516-adf0-b686f32de9bd",
+        "layerType": "zone",
+        "category": "industrial-utility",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18c07eb2-fca4-4acb-a55a-4659345c97a2",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.946464114,
+              51.26891059
+            ],
+            [
+              -115.943592552,
+              51.268012278
+            ],
+            [
+              -115.940003101,
+              51.267113966
+            ],
+            [
+              -115.942874662,
+              51.26891059
+            ],
+            [
+              -115.946464114,
+              51.26891059
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "18c07eb2-fca4-4acb-a55a-4659345c97a2",
+        "layerType": "zone",
+        "category": "industrial-utility",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a6bafeb1-aeca-43c9-b9fa-801bc5f32e4a",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.968000823,
+              51.279241178
+            ],
+            [
+              -115.96010403,
+              51.275198774
+            ],
+            [
+              -115.955796688,
+              51.272952994
+            ],
+            [
+              -115.955078797,
+              51.272952994
+            ],
+            [
+              -115.968000823,
+              51.281037802
+            ],
+            [
+              -115.968000823,
+              51.279241178
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "a6bafeb1-aeca-43c9-b9fa-801bc5f32e4a",
+        "layerType": "zone",
+        "category": "industrial-utility",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "faf3b188-16bb-4981-a1fa-8ccb203c2487",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.955078797,
+              51.272952994
+            ],
+            [
+              -115.947182004,
+              51.26891059
+            ],
+            [
+              -115.946464114,
+              51.26891059
+            ],
+            [
+              -115.953643017,
+              51.27340215
+            ],
+            [
+              -115.955078797,
+              51.272952994
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "faf3b188-16bb-4981-a1fa-8ccb203c2487",
+        "layerType": "zone",
+        "category": "industrial-utility",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "74d6961a-6e9d-4560-a09c-67256ab72bdf",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.971590274,
+              51.281037802
+            ],
+            [
+              -115.968000823,
+              51.279241178
+            ],
+            [
+              -115.968000823,
+              51.281037802
+            ],
+            [
+              -115.971590274,
+              51.281037802
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "74d6961a-6e9d-4560-a09c-67256ab72bdf",
+        "layerType": "zone",
+        "category": "industrial-utility",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "82f3de4e-e831-4f0a-b662-4a4f06958f4e",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.973743945,
+              51.28238527
+            ],
+            [
+              -115.971590274,
+              51.281037802
+            ],
+            [
+              -115.971590274,
+              51.28238527
+            ],
+            [
+              -115.973743945,
+              51.28238527
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "82f3de4e-e831-4f0a-b662-4a4f06958f4e",
+        "layerType": "zone",
+        "category": "industrial-utility",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9b772dd0-7013-48be-b282-0266130768c2",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.939285211,
+              51.26666481
+            ],
+            [
+              -115.935695759,
+              51.265766498
+            ],
+            [
+              -115.931388417,
+              51.265317342
+            ],
+            [
+              -115.928516856,
+              51.266215654
+            ],
+            [
+              -115.927798966,
+              51.26666481
+            ],
+            [
+              -115.939285211,
+              51.26666481
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "9b772dd0-7013-48be-b282-0266130768c2",
+        "layerType": "zone",
+        "category": "industrial-utility",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c9d24283-18f1-4191-8270-87f19ab91c00",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.953643017,
+              51.28013949
+            ],
+            [
+              -115.950771455,
+              51.28013949
+            ],
+            [
+              -115.947899894,
+              51.279690334
+            ],
+            [
+              -115.945746223,
+              51.278342866
+            ],
+            [
+              -115.943592552,
+              51.278342866
+            ],
+            [
+              -115.945746223,
+              51.279690334
+            ],
+            [
+              -115.947899894,
+              51.280588646
+            ],
+            [
+              -115.950771455,
+              51.281037802
+            ],
+            [
+              -115.953643017,
+              51.281037802
+            ],
+            [
+              -115.953643017,
+              51.28013949
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "c9d24283-18f1-4191-8270-87f19ab91c00",
+        "layerType": "zone",
+        "category": "commercial-civic",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ed7732cf-b63c-4988-8b8e-63ea9e2914fe",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.947182004,
+              51.275198774
+            ],
+            [
+              -115.947182004,
+              51.27340215
+            ],
+            [
+              -115.945746223,
+              51.27340215
+            ],
+            [
+              -115.945746223,
+              51.274300462
+            ],
+            [
+              -115.945746223,
+              51.275198774
+            ],
+            [
+              -115.947182004,
+              51.275198774
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ed7732cf-b63c-4988-8b8e-63ea9e2914fe",
+        "layerType": "zone",
+        "category": "commercial-civic",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cf9e8778-310a-4390-bef4-532b9a351961",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.96082192,
+              51.28013949
+            ],
+            [
+              -115.957232468,
+              51.28013949
+            ],
+            [
+              -115.96010403,
+              51.281037802
+            ],
+            [
+              -115.962975591,
+              51.28238527
+            ],
+            [
+              -115.964411371,
+              51.28238527
+            ],
+            [
+              -115.96082192,
+              51.28013949
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "cf9e8778-310a-4390-bef4-532b9a351961",
+        "layerType": "zone",
+        "category": "commercial-civic",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a90e0cb0-27c3-4aba-b51d-4e09fbc99323",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.971590274,
+              51.28238527
+            ],
+            [
+              -115.971590274,
+              51.281037802
+            ],
+            [
+              -115.968000823,
+              51.281037802
+            ],
+            [
+              -115.968000823,
+              51.28238527
+            ],
+            [
+              -115.971590274,
+              51.28238527
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "a90e0cb0-27c3-4aba-b51d-4e09fbc99323",
+        "layerType": "zone",
+        "category": "commercial-civic",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cf325413-5163-4160-95d7-b5439d267cfd",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.967282933,
+              51.284181894
+            ],
+            [
+              -115.965847152,
+              51.283283582
+            ],
+            [
+              -115.964411371,
+              51.283283582
+            ],
+            [
+              -115.964411371,
+              51.283732738
+            ],
+            [
+              -115.966565042,
+              51.28463105
+            ],
+            [
+              -115.967282933,
+              51.284181894
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "cf325413-5163-4160-95d7-b5439d267cfd",
+        "layerType": "zone",
+        "category": "commercial-civic",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "87157bf3-d527-41c1-a8da-6fa0c728d214",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.944310443,
+              51.275198774
+            ],
+            [
+              -115.944310443,
+              51.27340215
+            ],
+            [
+              -115.942874662,
+              51.27340215
+            ],
+            [
+              -115.942874662,
+              51.275198774
+            ],
+            [
+              -115.944310443,
+              51.275198774
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "87157bf3-d527-41c1-a8da-6fa0c728d214",
+        "layerType": "zone",
+        "category": "commercial-civic",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1e8cad0a-2d17-4db3-8f67-37142853eac7",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.950771455,
+              51.274749618
+            ],
+            [
+              -115.95041251,
+              51.274525041
+            ],
+            [
+              -115.950053565,
+              51.274300462
+            ],
+            [
+              -115.950053565,
+              51.27340215
+            ],
+            [
+              -115.948617785,
+              51.27340215
+            ],
+            [
+              -115.948617785,
+              51.274749618
+            ],
+            [
+              -115.950771455,
+              51.274749618
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "1e8cad0a-2d17-4db3-8f67-37142853eac7",
+        "layerType": "zone",
+        "category": "commercial-civic",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f464ed75-0ce7-4406-9552-ef25c4d72a61",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.950053565,
+              51.274300462
+            ],
+            [
+              -115.950771455,
+              51.274749618
+            ],
+            [
+              -115.952207236,
+              51.274749618
+            ],
+            [
+              -115.950053565,
+              51.27340215
+            ],
+            [
+              -115.950053565,
+              51.274300462
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "f464ed75-0ce7-4406-9552-ef25c4d72a61",
+        "layerType": "zone",
+        "category": "commercial-civic",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3079a7d0-a0db-4004-88ca-1d0e4c740192",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.96010403,
+              51.279690334
+            ],
+            [
+              -115.957232468,
+              51.27789371
+            ],
+            [
+              -115.954360907,
+              51.27789371
+            ],
+            [
+              -115.954360907,
+              51.278792031
+            ],
+            [
+              -115.954360907,
+              51.279241178
+            ],
+            [
+              -115.954360907,
+              51.279690334
+            ],
+            [
+              -115.96010403,
+              51.279690334
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "3079a7d0-a0db-4004-88ca-1d0e4c740192",
+        "layerType": "zone",
+        "category": "natural-green",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "43e14403-9b16-4607-afaa-5af0a7eb337f",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.955796688,
+              51.27564793
+            ],
+            [
+              -115.952207236,
+              51.27340215
+            ],
+            [
+              -115.951489346,
+              51.27340215
+            ],
+            [
+              -115.955078797,
+              51.27564793
+            ],
+            [
+              -115.955796688,
+              51.27564793
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "43e14403-9b16-4607-afaa-5af0a7eb337f",
+        "layerType": "zone",
+        "category": "natural-green",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7af9841f-e3d1-4a6d-adb6-534ed38aea68",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.958668249,
+              51.277444554
+            ],
+            [
+              -115.955796688,
+              51.27564793
+            ],
+            [
+              -115.955078797,
+              51.27564793
+            ],
+            [
+              -115.957950359,
+              51.277444554
+            ],
+            [
+              -115.958668249,
+              51.277444554
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "7af9841f-e3d1-4a6d-adb6-534ed38aea68",
+        "layerType": "zone",
+        "category": "natural-green",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "167558b7-c901-48fd-8cdf-2b4ac06345c1",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.934977869,
+              51.270258058
+            ],
+            [
+              -115.946464114,
+              51.270258058
+            ],
+            [
+              -115.950771455,
+              51.272952994
+            ],
+            [
+              -115.951489346,
+              51.272952994
+            ],
+            [
+              -115.946464114,
+              51.269808902
+            ],
+            [
+              -115.934259978,
+              51.269808902
+            ],
+            [
+              -115.934977869,
+              51.270258058
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "167558b7-c901-48fd-8cdf-2b4ac06345c1",
+        "layerType": "zone",
+        "category": "natural-green",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e06d6d34-03d8-4539-bae7-590ec8780c2b",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.958668248,
+              51.277444518
+            ],
+            [
+              -115.957950358,
+              51.277444518
+            ],
+            [
+              -115.965847151,
+              51.282385238
+            ],
+            [
+              -115.965847151,
+              51.283283546
+            ],
+            [
+              -115.966565042,
+              51.283732738
+            ],
+            [
+              -115.968000823,
+              51.283732738
+            ],
+            [
+              -115.968000823,
+              51.282834426
+            ],
+            [
+              -115.967282933,
+              51.282834426
+            ],
+            [
+              -115.966565041,
+              51.282385238
+            ],
+            [
+              -115.958668248,
+              51.277444518
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "e06d6d34-03d8-4539-bae7-590ec8780c2b",
+        "layerType": "zone",
+        "category": "natural-green",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "05f80bd7-ac8d-4258-ae1a-76dc46aea1f7",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.947899894,
+              51.277444554
+            ],
+            [
+              -115.957950359,
+              51.277444554
+            ],
+            [
+              -115.957232468,
+              51.276995398
+            ],
+            [
+              -115.947899894,
+              51.276995398
+            ],
+            [
+              -115.946464114,
+              51.276546242
+            ],
+            [
+              -115.945746223,
+              51.27564793
+            ],
+            [
+              -115.945746223,
+              51.27340215
+            ],
+            [
+              -115.944310443,
+              51.27340215
+            ],
+            [
+              -115.944310443,
+              51.275198774
+            ],
+            [
+              -115.93784943,
+              51.275198774
+            ],
+            [
+              -115.939285211,
+              51.27564793
+            ],
+            [
+              -115.944310443,
+              51.27564793
+            ],
+            [
+              -115.946464114,
+              51.276995398
+            ],
+            [
+              -115.947899894,
+              51.277444554
+            ],
+            [
+              -115.947899894,
+              51.277444554
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "05f80bd7-ac8d-4258-ae1a-76dc46aea1f7",
+        "layerType": "zone",
+        "category": "natural-green",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11ce4dd4-1b66-4a60-a3da-dd04ea105c19",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.965847152,
+              51.283283582
+            ],
+            [
+              -115.965847152,
+              51.28238527
+            ],
+            [
+              -115.962975591,
+              51.28238527
+            ],
+            [
+              -115.96010403,
+              51.281037802
+            ],
+            [
+              -115.957232468,
+              51.28013949
+            ],
+            [
+              -115.954360907,
+              51.28013949
+            ],
+            [
+              -115.954360907,
+              51.281037802
+            ],
+            [
+              -115.957232468,
+              51.281486958
+            ],
+            [
+              -115.959386139,
+              51.281936114
+            ],
+            [
+              -115.96153981,
+              51.282834426
+            ],
+            [
+              -115.962975591,
+              51.283732738
+            ],
+            [
+              -115.964411371,
+              51.283283582
+            ],
+            [
+              -115.965847152,
+              51.283283582
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "11ce4dd4-1b66-4a60-a3da-dd04ea105c19",
+        "layerType": "zone",
+        "category": "natural-green",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4300d126-d7d6-4b3a-af0a-fb84ea443e1a",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.936413649,
+              51.272952994
+            ],
+            [
+              -115.936413649,
+              51.27340215
+            ],
+            [
+              -115.952207236,
+              51.27340215
+            ],
+            [
+              -115.951489346,
+              51.272952994
+            ],
+            [
+              -115.936413649,
+              51.272952994
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "4300d126-d7d6-4b3a-af0a-fb84ea443e1a",
+        "layerType": "zone",
+        "category": "natural-green",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a1ec6885-1c7b-453c-8bc8-c540e31a9b8f",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.954360907,
+              51.277444554
+            ],
+            [
+              -115.953643017,
+              51.277444554
+            ],
+            [
+              -115.953643017,
+              51.279241178
+            ],
+            [
+              -115.953643017,
+              51.281037802
+            ],
+            [
+              -115.954360907,
+              51.281037802
+            ],
+            [
+              -115.954360907,
+              51.277444554
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "a1ec6885-1c7b-453c-8bc8-c540e31a9b8f",
+        "layerType": "zone",
+        "category": "natural-green",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a0f00665-13b1-4f54-9d0e-8f34814688e4",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.948617785,
+              51.27340215
+            ],
+            [
+              -115.947182004,
+              51.27340215
+            ],
+            [
+              -115.947182004,
+              51.274749618
+            ],
+            [
+              -115.948617785,
+              51.274749618
+            ],
+            [
+              -115.948617785,
+              51.27340215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "a0f00665-13b1-4f54-9d0e-8f34814688e4",
+        "layerType": "zone",
+        "category": "natural-green",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "01ed8203-742b-4eee-a0f6-751335ae65d2",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.977333397,
+            51.28463105
+          ],
+          [
+            -115.975179726,
+            51.28463105
+          ],
+          [
+            -115.975179726,
+            51.285080206
+          ]
+        ]
+      },
+      "properties": {
+        "id": "01ed8203-742b-4eee-a0f6-751335ae65d2",
+        "layerType": "zone",
+        "category": "high-density",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "651bd42c-784d-4d21-90ba-6e05d26d3557",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.983076519,
+              51.285529362
+            ],
+            [
+              -115.98523019,
+              51.285529362
+            ],
+            [
+              -115.98523019,
+              51.285080206
+            ],
+            [
+              -115.983076519,
+              51.28463105
+            ],
+            [
+              -115.977333397,
+              51.283732738
+            ],
+            [
+              -115.977333397,
+              51.285080206
+            ],
+            [
+              -115.975179726,
+              51.285529362
+            ],
+            [
+              -115.973026055,
+              51.285529362
+            ],
+            [
+              -115.970872384,
+              51.285080206
+            ],
+            [
+              -115.968718713,
+              51.285080206
+            ],
+            [
+              -115.966565042,
+              51.285080206
+            ],
+            [
+              -115.965129262,
+              51.28463105
+            ],
+            [
+              -115.963693481,
+              51.284181894
+            ],
+            [
+              -115.96153981,
+              51.282834426
+            ],
+            [
+              -115.959386139,
+              51.281936114
+            ],
+            [
+              -115.957232468,
+              51.281486958
+            ],
+            [
+              -115.954360907,
+              51.281037802
+            ],
+            [
+              -115.953643017,
+              51.281037802
+            ],
+            [
+              -115.950771455,
+              51.281037802
+            ],
+            [
+              -115.947899894,
+              51.280588646
+            ],
+            [
+              -115.945746223,
+              51.279690334
+            ],
+            [
+              -115.943592552,
+              51.278342866
+            ],
+            [
+              -115.941438881,
+              51.276995398
+            ],
+            [
+              -115.939285211,
+              51.27564793
+            ],
+            [
+              -115.93784943,
+              51.275198774
+            ],
+            [
+              -115.936413649,
+              51.274300462
+            ],
+            [
+              -115.936413649,
+              51.273851306
+            ],
+            [
+              -115.936413649,
+              51.272952994
+            ],
+            [
+              -115.936413649,
+              51.271605526
+            ],
+            [
+              -115.935695759,
+              51.270707214
+            ],
+            [
+              -115.934259978,
+              51.269808902
+            ],
+            [
+              -115.932106307,
+              51.269808902
+            ],
+            [
+              -115.932824198,
+              51.270707214
+            ],
+            [
+              -115.932824198,
+              51.27340215
+            ],
+            [
+              -115.934977869,
+              51.275198774
+            ],
+            [
+              -115.936413649,
+              51.276097086
+            ],
+            [
+              -115.93784943,
+              51.276546242
+            ],
+            [
+              -115.942156772,
+              51.279241178
+            ],
+            [
+              -115.942156772,
+              51.279690334
+            ],
+            [
+              -115.943592552,
+              51.280588646
+            ],
+            [
+              -115.945028333,
+              51.281936114
+            ],
+            [
+              -115.947182004,
+              51.282834426
+            ],
+            [
+              -115.955078797,
+              51.28238527
+            ],
+            [
+              -115.959386139,
+              51.283283582
+            ],
+            [
+              -115.962975591,
+              51.285080206
+            ],
+            [
+              -115.964411371,
+              51.285978518
+            ],
+            [
+              -115.968000823,
+              51.286427674
+            ],
+            [
+              -115.974461836,
+              51.28687683
+            ],
+            [
+              -115.976615507,
+              51.28687683
+            ],
+            [
+              -115.983076519,
+              51.285529362
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "651bd42c-784d-4d21-90ba-6e05d26d3557",
+        "layerType": "zone",
+        "category": "natural-green",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ae7dccaa-f6da-464b-83d2-0a8dc83a8fed",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.977333397,
+              51.28463105
+            ],
+            [
+              -115.975179726,
+              51.285080206
+            ],
+            [
+              -115.973026055,
+              51.285080206
+            ],
+            [
+              -115.971590274,
+              51.28463105
+            ],
+            [
+              -115.970872384,
+              51.28463105
+            ],
+            [
+              -115.968000823,
+              51.28463105
+            ],
+            [
+              -115.968000823,
+              51.285080206
+            ],
+            [
+              -115.970872384,
+              51.285080206
+            ],
+            [
+              -115.973026055,
+              51.285529362
+            ],
+            [
+              -115.975179726,
+              51.285529362
+            ],
+            [
+              -115.977333397,
+              51.285080206
+            ],
+            [
+              -115.977333397,
+              51.28463105
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ae7dccaa-f6da-464b-83d2-0a8dc83a8fed",
+        "layerType": "zone",
+        "category": "mixed-use",
+        "icon": "",
+        "mode": "polygon",
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "29c65eac-64f1-42b8-b8a6-87a175d3cc7b",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.926363185,
+              51.267113966
+            ],
+            [
+              -115.924927404,
+              51.267563122
+            ],
+            [
+              -115.922055843,
+              51.268012278
+            ],
+            [
+              -115.922055843,
+              51.268461434
+            ],
+            [
+              -115.929952636,
+              51.272952994
+            ],
+            [
+              -115.931388417,
+              51.273851306
+            ],
+            [
+              -115.932824198,
+              51.27340215
+            ],
+            [
+              -115.932824198,
+              51.272503838
+            ],
+            [
+              -115.932824198,
+              51.271605526
+            ],
+            [
+              -115.932824198,
+              51.270707214
+            ],
+            [
+              -115.932106307,
+              51.269808902
+            ],
+            [
+              -115.931388417,
+              51.269359746
+            ],
+            [
+              -115.928516856,
+              51.268012278
+            ],
+            [
+              -115.927081075,
+              51.267113966
+            ],
+            [
+              -115.926363185,
+              51.267113966
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "29c65eac-64f1-42b8-b8a6-87a175d3cc7b",
+        "layerType": "zone",
+        "category": "hydroelectric-plant",
+        "icon": "",
+        "mode": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dedc3f9d-a029-49f7-94d0-9d508c049245",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.948617785,
+            51.272503838
+          ],
+          [
+            -115.936413649,
+            51.272503838
+          ],
+          [
+            -115.936413649,
+            51.271605526
+          ],
+          [
+            -115.935695759,
+            51.270707214
+          ],
+          [
+            -115.934259978,
+            51.269808902
+          ],
+          [
+            -115.931029472,
+            51.268236883
+          ],
+          [
+            -115.927798966,
+            51.26666481
+          ]
+        ]
+      },
+      "properties": {
+        "id": "dedc3f9d-a029-49f7-94d0-9d508c049245",
+        "layerType": "zone",
+        "category": "high-density",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-local": true,
+        "cat_transit-route": false,
+        "cat_pedestrian-path": false,
+        "cat_cycle-route": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7ca0315e-43c6-4245-bddc-dae69f3531c2",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.98523019,
+              51.285080206
+            ],
+            [
+              -115.983076519,
+              51.28463105
+            ],
+            [
+              -115.980204958,
+              51.284181894
+            ],
+            [
+              -115.978051287,
+              51.283732738
+            ],
+            [
+              -115.976615507,
+              51.283283582
+            ],
+            [
+              -115.973743945,
+              51.281936114
+            ],
+            [
+              -115.969436604,
+              51.279690334
+            ],
+            [
+              -115.962975591,
+              51.276546242
+            ],
+            [
+              -115.955796688,
+              51.272952994
+            ],
+            [
+              -115.948617785,
+              51.269359746
+            ],
+            [
+              -115.944310443,
+              51.268012278
+            ],
+            [
+              -115.939285211,
+              51.26666481
+            ],
+            [
+              -115.935695759,
+              51.265766498
+            ],
+            [
+              -115.932824198,
+              51.265317342
+            ],
+            [
+              -115.931388417,
+              51.265317342
+            ],
+            [
+              -115.928516856,
+              51.266215654
+            ],
+            [
+              -115.926363185,
+              51.267113966
+            ],
+            [
+              -115.924927404,
+              51.267563122
+            ],
+            [
+              -115.922055843,
+              51.268012278
+            ],
+            [
+              -115.922055843,
+              51.268461434
+            ],
+            [
+              -115.931388417,
+              51.273851306
+            ],
+            [
+              -115.932824198,
+              51.27340215
+            ],
+            [
+              -115.934977869,
+              51.275198774
+            ],
+            [
+              -115.936413649,
+              51.276097086
+            ],
+            [
+              -115.93784943,
+              51.276546242
+            ],
+            [
+              -115.942156772,
+              51.279241178
+            ],
+            [
+              -115.942156772,
+              51.279690334
+            ],
+            [
+              -115.942874662,
+              51.28013949
+            ],
+            [
+              -115.943592552,
+              51.280588646
+            ],
+            [
+              -115.945028333,
+              51.281936114
+            ],
+            [
+              -115.947182004,
+              51.282834426
+            ],
+            [
+              -115.955078797,
+              51.28238527
+            ],
+            [
+              -115.959386139,
+              51.283283582
+            ],
+            [
+              -115.962975591,
+              51.285080206
+            ],
+            [
+              -115.964411371,
+              51.285978518
+            ],
+            [
+              -115.968000823,
+              51.286427674
+            ],
+            [
+              -115.974461836,
+              51.28687683
+            ],
+            [
+              -115.976615507,
+              51.28687683
+            ],
+            [
+              -115.978769178,
+              51.286427674
+            ],
+            [
+              -115.983076519,
+              51.285529362
+            ],
+            [
+              -115.98523019,
+              51.285529362
+            ],
+            [
+              -115.98523019,
+              51.285080206
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "7ca0315e-43c6-4245-bddc-dae69f3531c2",
+        "layerType": "zone",
+        "category": "city-boundary",
+        "icon": "",
+        "mode": "polygon"
+      }
+    }
+  ]
+}
