@@ -5,8 +5,8 @@
     -115.91648214801786
   ],
   "assumptions": {
-    "walkingSpeedMs": 1.4,
-    "busSpeedMs": 15,
+    "walkingSpeedMs": 1.5,
+    "busSpeedMs": 8.33,
     "personsPerDwelling": 2.3,
     "zoneDensityDUha": {
       "high-density": 200,
@@ -15,8 +15,6 @@
     },
     "circuityFactor": 1.3,
     "walk15MinRadiusM": 1200,
-    "transitCatchmentM": 400,
-    "cyclingSpeedMs": 9.5,
-    "brtSpeedMs": 11.11
+    "transitCatchmentM": 400
   }
 }

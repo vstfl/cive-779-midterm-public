@@ -3,6 +3,762 @@
   "features": [
     {
       "type": "Feature",
+      "id": "cd87ec1c-7716-4563-9f32-9df6f8525e7e",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.953643017,
+            51.28013949
+          ],
+          [
+            -115.953643017,
+            51.277444554
+          ],
+          [
+            -115.953643017,
+            51.27564793
+          ]
+        ]
+      },
+      "properties": {
+        "id": "cd87ec1c-7716-4563-9f32-9df6f8525e7e",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4d658cc9-2c57-4588-8961-ac56e6eb77c9",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.953643017,
+            51.27564793
+          ],
+          [
+            -115.953643017,
+            51.27564793
+          ],
+          [
+            -115.939285211,
+            51.26666481
+          ],
+          [
+            -115.928516856,
+            51.26666481
+          ]
+        ]
+      },
+      "properties": {
+        "id": "4d658cc9-2c57-4588-8961-ac56e6eb77c9",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c2d04dba-aef5-4687-a942-1696e9659ce3",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.939285211,
+            51.27115637
+          ],
+          [
+            -115.932106307,
+            51.26666481
+          ]
+        ]
+      },
+      "properties": {
+        "id": "c2d04dba-aef5-4687-a942-1696e9659ce3",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "820a6daa-4edb-4fad-9f61-08a6af6c9df4",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.946464114,
+            51.27115637
+          ],
+          [
+            -115.939285211,
+            51.27115637
+          ]
+        ]
+      },
+      "properties": {
+        "id": "820a6daa-4edb-4fad-9f61-08a6af6c9df4",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "42b7fe85-066e-4d02-a296-972d745aa73c",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.946464114,
+            51.27115637
+          ],
+          [
+            -115.946464114,
+            51.27115637
+          ],
+          [
+            -115.950053565,
+            51.27115637
+          ]
+        ]
+      },
+      "properties": {
+        "id": "42b7fe85-066e-4d02-a296-972d745aa73c",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c3d37b3c-d7d1-433d-ade1-221a6b4d7cb0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.950053565,
+            51.27340215
+          ],
+          [
+            -115.950053565,
+            51.27340215
+          ],
+          [
+            -115.953643017,
+            51.27340215
+          ]
+        ]
+      },
+      "properties": {
+        "id": "c3d37b3c-d7d1-433d-ade1-221a6b4d7cb0",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "80c5b52d-caeb-45a4-a625-beb641f157a9",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.96082192,
+            51.28013949
+          ],
+          [
+            -115.964411371,
+            51.28013949
+          ]
+        ]
+      },
+      "properties": {
+        "id": "80c5b52d-caeb-45a4-a625-beb641f157a9",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7c489b59-304c-4569-81da-3cb91de91dc6",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.964411371,
+            51.28238527
+          ],
+          [
+            -115.968000823,
+            51.28238527
+          ]
+        ]
+      },
+      "properties": {
+        "id": "7c489b59-304c-4569-81da-3cb91de91dc6",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eb144652-7ced-4431-a85f-5d0dc9795336",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.957232468,
+            51.27564793
+          ],
+          [
+            -115.953643017,
+            51.27564793
+          ]
+        ]
+      },
+      "properties": {
+        "id": "eb144652-7ced-4431-a85f-5d0dc9795336",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13bd4be0-051d-4cdb-9995-ba13fc5a2e47",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.942874662,
+            51.26891059
+          ],
+          [
+            -115.935695759,
+            51.26891059
+          ]
+        ]
+      },
+      "properties": {
+        "id": "13bd4be0-051d-4cdb-9995-ba13fc5a2e47",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a6c3651f-8fc1-4c0a-a31b-963ac31eeca4",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.946464114,
+            51.27340215
+          ],
+          [
+            -115.946464114,
+            51.27115637
+          ]
+        ]
+      },
+      "properties": {
+        "id": "a6c3651f-8fc1-4c0a-a31b-963ac31eeca4",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5441f8db-3be3-4a4d-bfb5-59d6c02af725",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.942874662,
+            51.27340215
+          ],
+          [
+            -115.942874662,
+            51.27115637
+          ]
+        ]
+      },
+      "properties": {
+        "id": "5441f8db-3be3-4a4d-bfb5-59d6c02af725",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fd0364b3-8d3f-4594-a78b-8220e018aa3c",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.942874662,
+            51.27115637
+          ],
+          [
+            -115.942874662,
+            51.26891059
+          ]
+        ]
+      },
+      "properties": {
+        "id": "fd0364b3-8d3f-4594-a78b-8220e018aa3c",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c35f0a2c-cc7c-4204-871f-e0bf458f652e",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.945028333,
+            51.270258058
+          ],
+          [
+            -115.93784943,
+            51.270258058
+          ],
+          [
+            -115.934977869,
+            51.270258058
+          ]
+        ]
+      },
+      "properties": {
+        "id": "c35f0a2c-cc7c-4204-871f-e0bf458f652e",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": false,
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8919133c-ba7f-4a5f-8adc-56bed15bb702",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.953643017,
+            51.278342866
+          ],
+          [
+            -115.96153981,
+            51.278342866
+          ]
+        ]
+      },
+      "properties": {
+        "id": "8919133c-ba7f-4a5f-8adc-56bed15bb702",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e322fb22-4e18-4e0d-bce4-7ea1fe943ce1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.953643017,
+            51.28013949
+          ],
+          [
+            -115.96082192,
+            51.28013949
+          ]
+        ]
+      },
+      "properties": {
+        "id": "e322fb22-4e18-4e0d-bce4-7ea1fe943ce1",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "85f5e2e8-608b-4bff-84c0-a9d16bcbdd8d",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.953643017,
+            51.27340215
+          ],
+          [
+            -115.955078797,
+            51.272952994
+          ],
+          [
+            -115.968000823,
+            51.281037802
+          ],
+          [
+            -115.968000823,
+            51.28238527
+          ]
+        ]
+      },
+      "properties": {
+        "id": "85f5e2e8-608b-4bff-84c0-a9d16bcbdd8d",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5a0a1559-4db3-49b5-8110-89faa3849f46",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.957232468,
+            51.27564793
+          ],
+          [
+            -115.957232468,
+            51.27564793
+          ],
+          [
+            -115.946464114,
+            51.26891059
+          ]
+        ]
+      },
+      "properties": {
+        "id": "5a0a1559-4db3-49b5-8110-89faa3849f46",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a68c84f-997c-4077-80bb-5a69077ca205",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.946464114,
+            51.26891059
+          ],
+          [
+            -115.942874662,
+            51.26891059
+          ]
+        ]
+      },
+      "properties": {
+        "id": "0a68c84f-997c-4077-80bb-5a69077ca205",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d92c8a8a-2f5c-4a62-807d-83bf20531276",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.964411371,
+            51.28013949
+          ],
+          [
+            -115.965847152,
+            51.279690334
+          ]
+        ]
+      },
+      "properties": {
+        "id": "d92c8a8a-2f5c-4a62-807d-83bf20531276",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef381653-fc69-44dd-86de-bdbbc52d4dfb",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.96153981,
+            51.278342866
+          ],
+          [
+            -115.962975591,
+            51.27789371
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ef381653-fc69-44dd-86de-bdbbc52d4dfb",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5b0e39bf-5330-4db5-a8c3-3f2abd961742",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.957232468,
+            51.27564793
+          ],
+          [
+            -115.958668249,
+            51.275198774
+          ]
+        ]
+      },
+      "properties": {
+        "id": "5b0e39bf-5330-4db5-a8c3-3f2abd961742",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "347fcbc6-4b23-4bb9-9a69-3b01122bff14",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.953643017,
+            51.28013949
+          ],
+          [
+            -115.950771455,
+            51.28013949
+          ],
+          [
+            -115.947899894,
+            51.279690334
+          ],
+          [
+            -115.945746223,
+            51.278342866
+          ]
+        ]
+      },
+      "properties": {
+        "id": "347fcbc6-4b23-4bb9-9a69-3b01122bff14",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8d4ac5e8-cf9f-40ed-90ec-3d8c693dd9a7",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.953643017,
+            51.278342866
+          ],
+          [
+            -115.945746223,
+            51.278342866
+          ],
+          [
+            -115.942156772,
+            51.27564793
+          ],
+          [
+            -115.939285211,
+            51.273851306
+          ]
+        ]
+      },
+      "properties": {
+        "id": "8d4ac5e8-cf9f-40ed-90ec-3d8c693dd9a7",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "527eccf7-39fc-4275-884d-7bcdf50e6a0a",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.939285211,
+            51.273851306
+          ],
+          [
+            -115.939285211,
+            51.27340215
+          ]
+        ]
+      },
+      "properties": {
+        "id": "527eccf7-39fc-4275-884d-7bcdf50e6a0a",
+        "layerType": "line",
+        "category": "road-primary",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "44df96c2-65de-47d6-9a80-bb7f2919c4ba",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.940720991,
+            51.272503838
+          ],
+          [
+            -115.940720991,
+            51.270258058
+          ]
+        ]
+      },
+      "properties": {
+        "id": "44df96c2-65de-47d6-9a80-bb7f2919c4ba",
+        "layerType": "line",
+        "category": "transit-route",
+        "icon": "",
+        "mode": "linestring",
+        "cat_transit-route": false,
+        "cat_road-local": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "25e3c9a2-c019-4b88-8675-ae6530568ef2",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.950053565,
+            51.27340215
+          ],
+          [
+            -115.945028333,
+            51.27340215
+          ],
+          [
+            -115.939285211,
+            51.27340215
+          ],
+          [
+            -115.939285211,
+            51.26666481
+          ]
+        ]
+      },
+      "properties": {
+        "id": "25e3c9a2-c019-4b88-8675-ae6530568ef2",
+        "layerType": "line",
+        "category": "transit-route",
+        "icon": "",
+        "mode": "linestring",
+        "cat_road-primary": true,
+        "cat_transit-route": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7860cf5b-c409-4fa0-b7ac-6026596b3cdf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.933542088,
+          51.268461434
+        ]
+      },
+      "properties": {
+        "id": "7860cf5b-c409-4fa0-b7ac-6026596b3cdf",
+        "layerType": "point",
+        "category": "hydro-center",
+        "icon": "💧",
+        "mode": "point"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "a88c2210-4f9d-4efa-a9d4-bc2d7ed43201",
       "geometry": {
         "type": "Point",
@@ -435,647 +1191,156 @@
     },
     {
       "type": "Feature",
-      "id": "cd87ec1c-7716-4563-9f32-9df6f8525e7e",
+      "id": "51e1d7d4-fe41-4eb0-af54-ac53b95befcb",
       "geometry": {
-        "type": "LineString",
+        "type": "Point",
         "coordinates": [
-          [
-            -115.953643017,
-            51.28013949
-          ],
-          [
-            -115.953643017,
-            51.277444554
-          ],
-          [
-            -115.953643017,
-            51.27564793
-          ]
+          -115.971590274,
+          51.283732738
         ]
       },
       "properties": {
-        "id": "cd87ec1c-7716-4563-9f32-9df6f8525e7e",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
+        "id": "51e1d7d4-fe41-4eb0-af54-ac53b95befcb",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
       }
     },
     {
       "type": "Feature",
-      "id": "4d658cc9-2c57-4588-8961-ac56e6eb77c9",
+      "id": "35a84822-db94-4030-b0a6-ebab0a31c56b",
       "geometry": {
-        "type": "LineString",
+        "type": "Point",
         "coordinates": [
-          [
-            -115.953643017,
-            51.27564793
-          ],
-          [
-            -115.953643017,
-            51.27564793
-          ],
-          [
-            -115.939285211,
-            51.26666481
-          ],
-          [
-            -115.928516856,
-            51.26666481
-          ]
+          -115.93784943,
+          51.267563122
         ]
       },
       "properties": {
-        "id": "4d658cc9-2c57-4588-8961-ac56e6eb77c9",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
+        "id": "35a84822-db94-4030-b0a6-ebab0a31c56b",
+        "layerType": "point",
+        "category": "bus-stop",
+        "icon": "🚏",
+        "mode": "point"
       }
     },
     {
       "type": "Feature",
-      "id": "c2d04dba-aef5-4687-a942-1696e9659ce3",
+      "id": "2aa599d6-0262-4359-8039-a8078897777d",
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -115.939285211,
-            51.27115637
+            -115.971590274,
+            51.283732738
           ],
           [
-            -115.932106307,
-            51.26666481
-          ]
-        ]
-      },
-      "properties": {
-        "id": "c2d04dba-aef5-4687-a942-1696e9659ce3",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "820a6daa-4edb-4fad-9f61-08a6af6c9df4",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.946464114,
-            51.27115637
-          ],
-          [
-            -115.939285211,
-            51.27115637
-          ]
-        ]
-      },
-      "properties": {
-        "id": "820a6daa-4edb-4fad-9f61-08a6af6c9df4",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "42b7fe85-066e-4d02-a296-972d745aa73c",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.946464114,
-            51.27115637
-          ],
-          [
-            -115.946464114,
-            51.27115637
-          ],
-          [
-            -115.950053565,
-            51.27115637
-          ]
-        ]
-      },
-      "properties": {
-        "id": "42b7fe85-066e-4d02-a296-972d745aa73c",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "c3d37b3c-d7d1-433d-ade1-221a6b4d7cb0",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.950053565,
-            51.27340215
-          ],
-          [
-            -115.950053565,
-            51.27340215
-          ],
-          [
-            -115.953643017,
-            51.27340215
-          ]
-        ]
-      },
-      "properties": {
-        "id": "c3d37b3c-d7d1-433d-ade1-221a6b4d7cb0",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "80c5b52d-caeb-45a4-a625-beb641f157a9",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.96082192,
-            51.28013949
-          ],
-          [
-            -115.964411371,
-            51.28013949
-          ]
-        ]
-      },
-      "properties": {
-        "id": "80c5b52d-caeb-45a4-a625-beb641f157a9",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "7c489b59-304c-4569-81da-3cb91de91dc6",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.964411371,
+            -115.971590274,
             51.28238527
           ],
           [
             -115.968000823,
             51.28238527
-          ]
-        ]
-      },
-      "properties": {
-        "id": "7c489b59-304c-4569-81da-3cb91de91dc6",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "eb144652-7ced-4431-a85f-5d0dc9795336",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.957232468,
-            51.27564793
-          ],
-          [
-            -115.953643017,
-            51.27564793
-          ]
-        ]
-      },
-      "properties": {
-        "id": "eb144652-7ced-4431-a85f-5d0dc9795336",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "13bd4be0-051d-4cdb-9995-ba13fc5a2e47",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.942874662,
-            51.26891059
-          ],
-          [
-            -115.935695759,
-            51.26891059
-          ]
-        ]
-      },
-      "properties": {
-        "id": "13bd4be0-051d-4cdb-9995-ba13fc5a2e47",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "a6c3651f-8fc1-4c0a-a31b-963ac31eeca4",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.946464114,
-            51.27340215
           ],
           [
             -115.946464114,
-            51.27115637
-          ]
-        ]
-      },
-      "properties": {
-        "id": "a6c3651f-8fc1-4c0a-a31b-963ac31eeca4",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "5441f8db-3be3-4a4d-bfb5-59d6c02af725",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.942874662,
-            51.27340215
-          ],
-          [
-            -115.942874662,
-            51.27115637
-          ]
-        ]
-      },
-      "properties": {
-        "id": "5441f8db-3be3-4a4d-bfb5-59d6c02af725",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "fd0364b3-8d3f-4594-a78b-8220e018aa3c",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.942874662,
-            51.27115637
+            51.26891059
           ],
           [
             -115.942874662,
             51.26891059
+          ],
+          [
+            -115.940720991,
+            51.267563122
+          ],
+          [
+            -115.93784943,
+            51.267563122
+          ],
+          [
+            -115.93784943,
+            51.269808902
+          ],
+          [
+            -115.939285211,
+            51.269808902
           ]
         ]
       },
       "properties": {
-        "id": "fd0364b3-8d3f-4594-a78b-8220e018aa3c",
+        "id": "2aa599d6-0262-4359-8039-a8078897777d",
         "layerType": "line",
-        "category": "road-primary",
+        "category": "transit-route",
         "icon": "",
         "mode": "linestring",
-        "cat_road-primary": true
+        "cat_transit-route": true
       }
     },
     {
       "type": "Feature",
-      "id": "c35f0a2c-cc7c-4204-871f-e0bf458f652e",
+      "id": "4dfb7dee-2b08-4f26-b9ec-64073f579455",
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [
+            -115.939285211,
+            51.269808902
+          ],
+          [
+            -115.939285211,
+            51.270258058
+          ],
           [
             -115.945028333,
             51.270258058
           ],
           [
-            -115.93784943,
-            51.270258058
-          ],
-          [
-            -115.934977869,
-            51.270258058
-          ]
-        ]
-      },
-      "properties": {
-        "id": "c35f0a2c-cc7c-4204-871f-e0bf458f652e",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": false,
-        "cat_road-local": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "8919133c-ba7f-4a5f-8adc-56bed15bb702",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.953643017,
-            51.278342866
-          ],
-          [
-            -115.96153981,
-            51.278342866
-          ]
-        ]
-      },
-      "properties": {
-        "id": "8919133c-ba7f-4a5f-8adc-56bed15bb702",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "e322fb22-4e18-4e0d-bce4-7ea1fe943ce1",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.953643017,
-            51.28013949
-          ],
-          [
-            -115.96082192,
-            51.28013949
-          ]
-        ]
-      },
-      "properties": {
-        "id": "e322fb22-4e18-4e0d-bce4-7ea1fe943ce1",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "3649b8f2-f8d8-46a8-af45-8a4ed7411866",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -115.968000823,
-            51.28238527
+            51.28463105
           ],
           [
             -115.971590274,
-            51.28238527
+            51.28463105
+          ],
+          [
+            -115.971590274,
+            51.283732738
           ]
         ]
       },
       "properties": {
-        "id": "3649b8f2-f8d8-46a8-af45-8a4ed7411866",
+        "id": "4dfb7dee-2b08-4f26-b9ec-64073f579455",
         "layerType": "line",
-        "category": "road-primary",
+        "category": "transit-route",
         "icon": "",
         "mode": "linestring",
-        "cat_road-primary": true
+        "cat_transit-route": true
       }
     },
     {
       "type": "Feature",
-      "id": "85f5e2e8-608b-4bff-84c0-a9d16bcbdd8d",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.953643017,
-            51.27340215
-          ],
-          [
-            -115.955078797,
-            51.272952994
-          ],
-          [
-            -115.968000823,
-            51.281037802
-          ],
-          [
-            -115.968000823,
-            51.28238527
-          ]
-        ]
-      },
-      "properties": {
-        "id": "85f5e2e8-608b-4bff-84c0-a9d16bcbdd8d",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "5a0a1559-4db3-49b5-8110-89faa3849f46",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.957232468,
-            51.27564793
-          ],
-          [
-            -115.957232468,
-            51.27564793
-          ],
-          [
-            -115.946464114,
-            51.26891059
-          ]
-        ]
-      },
-      "properties": {
-        "id": "5a0a1559-4db3-49b5-8110-89faa3849f46",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "0a68c84f-997c-4077-80bb-5a69077ca205",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.946464114,
-            51.26891059
-          ],
-          [
-            -115.942874662,
-            51.26891059
-          ]
-        ]
-      },
-      "properties": {
-        "id": "0a68c84f-997c-4077-80bb-5a69077ca205",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "d92c8a8a-2f5c-4a62-807d-83bf20531276",
+      "id": "f419f742-a497-4795-918d-2b47051aff62",
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
             -115.964411371,
-            51.28013949
-          ],
-          [
-            -115.965847152,
-            51.279690334
-          ]
-        ]
-      },
-      "properties": {
-        "id": "d92c8a8a-2f5c-4a62-807d-83bf20531276",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "ef381653-fc69-44dd-86de-bdbbc52d4dfb",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.96153981,
-            51.278342866
+            51.28238527
           ],
           [
             -115.962975591,
-            51.27789371
-          ]
-        ]
-      },
-      "properties": {
-        "id": "ef381653-fc69-44dd-86de-bdbbc52d4dfb",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "5b0e39bf-5330-4db5-a8c3-3f2abd961742",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
+            51.28238527
+          ],
+          [
+            -115.96010403,
+            51.281037802
+          ],
           [
             -115.957232468,
-            51.27564793
+            51.28013949
           ],
-          [
-            -115.958668249,
-            51.275198774
-          ]
-        ]
-      },
-      "properties": {
-        "id": "5b0e39bf-5330-4db5-a8c3-3f2abd961742",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "6da69a4c-0bb7-4013-87b2-a8a2d0a13aed",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.968000823,
-            51.279241178
-          ],
-          [
-            -115.965847152,
-            51.279690334
-          ]
-        ]
-      },
-      "properties": {
-        "id": "6da69a4c-0bb7-4013-87b2-a8a2d0a13aed",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "347fcbc6-4b23-4bb9-9a69-3b01122bff14",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
           [
             -115.953643017,
             51.28013949
@@ -1087,31 +1352,6 @@
           [
             -115.947899894,
             51.279690334
-          ],
-          [
-            -115.945746223,
-            51.278342866
-          ]
-        ]
-      },
-      "properties": {
-        "id": "347fcbc6-4b23-4bb9-9a69-3b01122bff14",
-        "layerType": "line",
-        "category": "road-primary",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "8d4ac5e8-cf9f-40ed-90ec-3d8c693dd9a7",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.953643017,
-            51.278342866
           ],
           [
             -115.945746223,
@@ -1128,17 +1368,17 @@
         ]
       },
       "properties": {
-        "id": "8d4ac5e8-cf9f-40ed-90ec-3d8c693dd9a7",
+        "id": "f419f742-a497-4795-918d-2b47051aff62",
         "layerType": "line",
-        "category": "road-primary",
+        "category": "transit-route",
         "icon": "",
         "mode": "linestring",
-        "cat_road-primary": true
+        "cat_transit-route": true
       }
     },
     {
       "type": "Feature",
-      "id": "527eccf7-39fc-4275-884d-7bcdf50e6a0a",
+      "id": "f58fda4e-6b5c-4216-b5b6-61d4939bfefc",
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1149,13 +1389,74 @@
           [
             -115.939285211,
             51.27340215
+          ],
+          [
+            -115.942874662,
+            51.27340215
+          ],
+          [
+            -115.944310443,
+            51.27340215
+          ],
+          [
+            -115.944310443,
+            51.27564793
+          ],
+          [
+            -115.946464114,
+            51.276995398
+          ],
+          [
+            -115.947899894,
+            51.277444554
+          ],
+          [
+            -115.953643017,
+            51.277444554
+          ],
+          [
+            -115.956514578,
+            51.277444554
+          ],
+          [
+            -115.964411371,
+            51.28238527
           ]
         ]
       },
       "properties": {
-        "id": "527eccf7-39fc-4275-884d-7bcdf50e6a0a",
+        "id": "f58fda4e-6b5c-4216-b5b6-61d4939bfefc",
         "layerType": "line",
-        "category": "road-primary",
+        "category": "transit-route",
+        "icon": "",
+        "mode": "linestring",
+        "cat_transit-route": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3649b8f2-f8d8-46a8-af45-8a4ed7411866",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.968000823,
+            51.28238527
+          ],
+          [
+            -115.969795549,
+            51.28238527
+          ],
+          [
+            -115.971590274,
+            51.28238527
+          ]
+        ]
+      },
+      "properties": {
+        "id": "3649b8f2-f8d8-46a8-af45-8a4ed7411866",
+        "layerType": "zone",
+        "category": "high-density",
         "icon": "",
         "mode": "linestring",
         "cat_road-primary": true
@@ -1322,6 +1623,10 @@
             51.28238527
           ],
           [
+            -115.972667109,
+            51.28238527
+          ],
+          [
             -115.971590274,
             51.28238527
           ]
@@ -1329,8 +1634,8 @@
       },
       "properties": {
         "id": "b5402aea-61f1-41fd-8085-989381148811",
-        "layerType": "line",
-        "category": "road-local",
+        "layerType": "zone",
+        "category": "high-density",
         "icon": "",
         "mode": "linestring",
         "cat_road-local": true
@@ -1438,31 +1743,6 @@
     },
     {
       "type": "Feature",
-      "id": "721d7f42-4fbd-4d51-8397-72629cfe8270",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.971590274,
-            51.281037802
-          ],
-          [
-            -115.971590274,
-            51.28238527
-          ]
-        ]
-      },
-      "properties": {
-        "id": "721d7f42-4fbd-4d51-8397-72629cfe8270",
-        "layerType": "line",
-        "category": "road-local",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-local": true
-      }
-    },
-    {
-      "type": "Feature",
       "id": "c4ddf0b8-357f-4222-a043-25a7a00cf719",
       "geometry": {
         "type": "LineString",
@@ -1472,73 +1752,15 @@
             51.281037802
           ],
           [
-            -115.971590274,
-            51.281037802
+            -115.973743945,
+            51.28238527
           ]
         ]
       },
       "properties": {
         "id": "c4ddf0b8-357f-4222-a043-25a7a00cf719",
-        "layerType": "line",
-        "category": "road-local",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-local": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "d5f28447-5643-42c6-bfdb-5b9b146ea87a",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.968000823,
-            51.279241178
-          ],
-          [
-            -115.964411371,
-            51.277444554
-          ],
-          [
-            -115.96010403,
-            51.275198774
-          ],
-          [
-            -115.958668249,
-            51.275198774
-          ]
-        ]
-      },
-      "properties": {
-        "id": "d5f28447-5643-42c6-bfdb-5b9b146ea87a",
-        "layerType": "line",
-        "category": "road-local",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-local": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "63edfd56-e760-48ac-84b5-c7603a17bca6",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.968000823,
-            51.281037802
-          ],
-          [
-            -115.968000823,
-            51.279241178
-          ]
-        ]
-      },
-      "properties": {
-        "id": "63edfd56-e760-48ac-84b5-c7603a17bca6",
-        "layerType": "line",
-        "category": "road-local",
+        "layerType": "zone",
+        "category": "high-density",
         "icon": "",
         "mode": "linestring",
         "cat_road-local": true
@@ -2199,60 +2421,6 @@
     },
     {
       "type": "Feature",
-      "id": "a522ec56-e435-4ef7-97ff-416bb89bb024",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.962975591,
-            51.27789371
-          ],
-          [
-            -115.964411371,
-            51.277444554
-          ]
-        ]
-      },
-      "properties": {
-        "id": "a522ec56-e435-4ef7-97ff-416bb89bb024",
-        "layerType": "line",
-        "category": "road-local",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-local": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "61d13e18-f5d3-40cb-b517-1c9402401b30",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.96010403,
-            51.275198774
-          ],
-          [
-            -115.955796688,
-            51.272952994
-          ],
-          [
-            -115.955078797,
-            51.272952994
-          ]
-        ]
-      },
-      "properties": {
-        "id": "61d13e18-f5d3-40cb-b517-1c9402401b30",
-        "layerType": "line",
-        "category": "road-local",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-local": true
-      }
-    },
-    {
-      "type": "Feature",
       "id": "ea117448-d661-463b-b290-ee0085bc472b",
       "geometry": {
         "type": "LineString",
@@ -2769,156 +2937,6 @@
     },
     {
       "type": "Feature",
-      "id": "44df96c2-65de-47d6-9a80-bb7f2919c4ba",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.940720991,
-            51.272503838
-          ],
-          [
-            -115.940720991,
-            51.270258058
-          ]
-        ]
-      },
-      "properties": {
-        "id": "44df96c2-65de-47d6-9a80-bb7f2919c4ba",
-        "layerType": "line",
-        "category": "transit-route",
-        "icon": "",
-        "mode": "linestring",
-        "cat_transit-route": false,
-        "cat_road-local": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "25e3c9a2-c019-4b88-8675-ae6530568ef2",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.950053565,
-            51.27340215
-          ],
-          [
-            -115.945028333,
-            51.27340215
-          ],
-          [
-            -115.939285211,
-            51.27340215
-          ],
-          [
-            -115.939285211,
-            51.26666481
-          ]
-        ]
-      },
-      "properties": {
-        "id": "25e3c9a2-c019-4b88-8675-ae6530568ef2",
-        "layerType": "line",
-        "category": "transit-route",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-primary": true,
-        "cat_transit-route": false
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "51e1d7d4-fe41-4eb0-af54-ac53b95befcb",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.971590274,
-          51.283732738
-        ]
-      },
-      "properties": {
-        "id": "51e1d7d4-fe41-4eb0-af54-ac53b95befcb",
-        "layerType": "point",
-        "category": "bus-stop",
-        "icon": "🚏",
-        "mode": "point"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "35a84822-db94-4030-b0a6-ebab0a31c56b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.93784943,
-          51.267563122
-        ]
-      },
-      "properties": {
-        "id": "35a84822-db94-4030-b0a6-ebab0a31c56b",
-        "layerType": "point",
-        "category": "bus-stop",
-        "icon": "🚏",
-        "mode": "point"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "c1886173-3609-452f-8697-cf7b391ae976",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.929952636,
-          51.270258058
-        ]
-      },
-      "properties": {
-        "id": "c1886173-3609-452f-8697-cf7b391ae976",
-        "layerType": "point",
-        "category": "hydro-center",
-        "icon": "💧",
-        "mode": "point"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "fb8362b9-8a62-4718-9251-4f1c6c2762a7",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.932106307,
-          51.269359746
-        ]
-      },
-      "properties": {
-        "id": "fb8362b9-8a62-4718-9251-4f1c6c2762a7",
-        "layerType": "point",
-        "category": "hydro-center",
-        "icon": "💧",
-        "mode": "point"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "7860cf5b-c409-4fa0-b7ac-6026596b3cdf",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.933542088,
-          51.268461434
-        ]
-      },
-      "properties": {
-        "id": "7860cf5b-c409-4fa0-b7ac-6026596b3cdf",
-        "layerType": "point",
-        "category": "hydro-center",
-        "icon": "💧",
-        "mode": "point"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "f1565fba-2ecd-4205-a18c-bca719c21ab4",
       "geometry": {
         "type": "LineString",
@@ -3083,31 +3101,6 @@
       },
       "properties": {
         "id": "d95db4c6-fc55-404d-a780-cce98de3c663",
-        "layerType": "line",
-        "category": "road-local",
-        "icon": "",
-        "mode": "linestring",
-        "cat_road-local": true
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "8bc42d7f-d129-46cb-acf5-ba3aaeb9dcb0",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -115.973743945,
-            51.28238527
-          ],
-          [
-            -115.971590274,
-            51.281037802
-          ]
-        ]
-      },
-      "properties": {
-        "id": "8bc42d7f-d129-46cb-acf5-ba3aaeb9dcb0",
         "layerType": "line",
         "category": "road-local",
         "icon": "",
@@ -5030,12 +5023,36 @@
               51.26891059
             ],
             [
-              -115.932106307,
-              51.26666481
+              -115.932824198,
+              51.267113966
             ],
             [
-              -115.927798966,
-              51.26666481
+              -115.928516856,
+              51.267113966
+            ],
+            [
+              -115.928517691,
+              51.267473495
+            ],
+            [
+              -115.929047228,
+              51.267828867
+            ],
+            [
+              -115.930670527,
+              51.268461434
+            ],
+            [
+              -115.931692122,
+              51.268767117
+            ],
+            [
+              -115.932824198,
+              51.269359746
+            ],
+            [
+              -115.933542088,
+              51.269808902
             ],
             [
               -115.934259978,
@@ -5068,7 +5085,7 @@
               51.26666481
             ],
             [
-              -115.932106307,
+              -115.933542088,
               51.26666481
             ],
             [
@@ -5084,86 +5101,6 @@
       },
       "properties": {
         "id": "2eba23cb-19c7-4516-adf0-b686f32de9bd",
-        "layerType": "zone",
-        "category": "industrial-utility",
-        "icon": "",
-        "mode": "polygon"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "18c07eb2-fca4-4acb-a55a-4659345c97a2",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -115.946464114,
-              51.26891059
-            ],
-            [
-              -115.943592552,
-              51.268012278
-            ],
-            [
-              -115.940003101,
-              51.267113966
-            ],
-            [
-              -115.942874662,
-              51.26891059
-            ],
-            [
-              -115.946464114,
-              51.26891059
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "18c07eb2-fca4-4acb-a55a-4659345c97a2",
-        "layerType": "zone",
-        "category": "industrial-utility",
-        "icon": "",
-        "mode": "polygon"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "a6bafeb1-aeca-43c9-b9fa-801bc5f32e4a",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -115.968000823,
-              51.279241178
-            ],
-            [
-              -115.96010403,
-              51.275198774
-            ],
-            [
-              -115.955796688,
-              51.272952994
-            ],
-            [
-              -115.955078797,
-              51.272952994
-            ],
-            [
-              -115.968000823,
-              51.281037802
-            ],
-            [
-              -115.968000823,
-              51.279241178
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "a6bafeb1-aeca-43c9-b9fa-801bc5f32e4a",
         "layerType": "zone",
         "category": "industrial-utility",
         "icon": "",
@@ -5202,116 +5139,6 @@
       },
       "properties": {
         "id": "faf3b188-16bb-4981-a1fa-8ccb203c2487",
-        "layerType": "zone",
-        "category": "industrial-utility",
-        "icon": "",
-        "mode": "polygon"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "74d6961a-6e9d-4560-a09c-67256ab72bdf",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -115.971590274,
-              51.281037802
-            ],
-            [
-              -115.968000823,
-              51.279241178
-            ],
-            [
-              -115.968000823,
-              51.281037802
-            ],
-            [
-              -115.971590274,
-              51.281037802
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "74d6961a-6e9d-4560-a09c-67256ab72bdf",
-        "layerType": "zone",
-        "category": "industrial-utility",
-        "icon": "",
-        "mode": "polygon"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "82f3de4e-e831-4f0a-b662-4a4f06958f4e",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -115.973743945,
-              51.28238527
-            ],
-            [
-              -115.971590274,
-              51.281037802
-            ],
-            [
-              -115.971590274,
-              51.28238527
-            ],
-            [
-              -115.973743945,
-              51.28238527
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "82f3de4e-e831-4f0a-b662-4a4f06958f4e",
-        "layerType": "zone",
-        "category": "industrial-utility",
-        "icon": "",
-        "mode": "polygon"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "9b772dd0-7013-48be-b282-0266130768c2",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -115.939285211,
-              51.26666481
-            ],
-            [
-              -115.935695759,
-              51.265766498
-            ],
-            [
-              -115.931388417,
-              51.265317342
-            ],
-            [
-              -115.928516856,
-              51.266215654
-            ],
-            [
-              -115.927798966,
-              51.26666481
-            ],
-            [
-              -115.939285211,
-              51.26666481
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "9b772dd0-7013-48be-b282-0266130768c2",
         "layerType": "zone",
         "category": "industrial-utility",
         "icon": "",
@@ -5472,8 +5299,8 @@
               51.28238527
             ],
             [
-              -115.971590274,
-              51.281037802
+              -115.973743945,
+              51.28238527
             ],
             [
               -115.968000823,
@@ -6470,84 +6297,6 @@
     },
     {
       "type": "Feature",
-      "id": "29c65eac-64f1-42b8-b8a6-87a175d3cc7b",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -115.926363185,
-              51.267113966
-            ],
-            [
-              -115.924927404,
-              51.267563122
-            ],
-            [
-              -115.922055843,
-              51.268012278
-            ],
-            [
-              -115.922055843,
-              51.268461434
-            ],
-            [
-              -115.929952636,
-              51.272952994
-            ],
-            [
-              -115.931388417,
-              51.273851306
-            ],
-            [
-              -115.932824198,
-              51.27340215
-            ],
-            [
-              -115.932824198,
-              51.272503838
-            ],
-            [
-              -115.932824198,
-              51.271605526
-            ],
-            [
-              -115.932824198,
-              51.270707214
-            ],
-            [
-              -115.932106307,
-              51.269808902
-            ],
-            [
-              -115.931388417,
-              51.269359746
-            ],
-            [
-              -115.928516856,
-              51.268012278
-            ],
-            [
-              -115.927081075,
-              51.267113966
-            ],
-            [
-              -115.926363185,
-              51.267113966
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "29c65eac-64f1-42b8-b8a6-87a175d3cc7b",
-        "layerType": "zone",
-        "category": "hydroelectric-plant",
-        "icon": "",
-        "mode": "polygon"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "dedc3f9d-a029-49f7-94d0-9d508c049245",
       "geometry": {
         "type": "LineString",
@@ -6571,14 +6320,6 @@
           [
             -115.934259978,
             51.269808902
-          ],
-          [
-            -115.931029472,
-            51.268236883
-          ],
-          [
-            -115.927798966,
-            51.26666481
           ]
         ]
       },
@@ -6666,24 +6407,20 @@
               51.266215654
             ],
             [
-              -115.926363185,
+              -115.927081075,
               51.267113966
             ],
             [
-              -115.924927404,
-              51.267563122
-            ],
-            [
-              -115.922055843,
+              -115.928516856,
               51.268012278
             ],
             [
-              -115.922055843,
-              51.268461434
+              -115.932106307,
+              51.269808902
             ],
             [
-              -115.931388417,
-              51.273851306
+              -115.932824198,
+              51.270707214
             ],
             [
               -115.932824198,
